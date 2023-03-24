@@ -122,18 +122,18 @@
     
     
     <!--Team Section-->
-    <section class="team-section">
+    <!-- <section class="team-section">
     	<div class="outer-container">
         	<div class="lined-title"><h2>Our Volunteers</h2></div>
     	</div>
        	
         <div class="carousel-outer">
-        	<div class="outer-container">
+        	<div class="outer-container"> -->
                 <!--Team Carousel-->
-                <div class="team-carousel">
+                <!-- <div class="team-carousel"> -->
                     
                     <!--Team Member-->
-                    <div class="team-member">
+                    <!-- <div class="team-member">
                         <div class="inner-box">
                             <div class="image-box">
                                 <figure class="image"><img src="@/assets/images/resource/team-image-1.png" alt=""></figure>
@@ -152,10 +152,10 @@
                                 </div>
                             </div>
                         </div>
-                    </div>
+                    </div> -->
                     
                     <!--Team Member-->
-                    <div class="team-member">
+                    <!-- <div class="team-member">
                         <div class="inner-box">
                             <div class="image-box">
                                 <figure class="image"><img src="@/assets/images/resource/team-image-2.png" alt=""></figure>
@@ -175,9 +175,9 @@
                             </div>
                         </div>
                     </div>
-                    
+                     -->
                     <!--Team Member-->
-                    <div class="team-member">
+                    <!-- <div class="team-member">
                         <div class="inner-box">
                             <div class="image-box">
                                 <figure class="image"><img src="@/assets/images/resource/team-image-3.png" alt=""></figure>
@@ -201,18 +201,18 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section> -->
     
     <!--Gallery Section-->
-    <section class="gallery-section gallery-style-two bg-lightgrey">
+    <!-- <section class="gallery-section gallery-style-two bg-lightgrey">
     	<div class="outer-container">
         	<div class="lined-title"><h2>Our Projects</h2></div>
             <div class="outer-box">
             
-                <div class="sortable-masonry">
+                <div class="sortable-masonry"> -->
                 
                     <!--Filter-->
-                    <div class="filters text-center">
+                    <!-- <div class="filters text-center">
                         <ul class="filter-tabs filter-btns clearfix">
                             <li class="active filter" data-role="button" data-filter=".all">All Projects</li>
                             <li class="filter" data-role="button" data-filter=".education">Education</li>
@@ -222,16 +222,16 @@
                             <li class="filter" data-role="button" data-filter=".asia">Asia</li>
                         </ul>
                     </div>
-                        
+                         -->
                     
-                    <div class="items-container clearfix">
+                    <!-- <div class="items-container clearfix"> -->
                         
                         <!--Default Portfolio Item-->
-                        <div class="default-portfolio-item big-item all water asia africa">
+                        <!-- <div class="default-portfolio-item big-item all water asia africa">
                             <div class="inner-box">
-                                <figure class="image-box"><img src="@/assets/images/gallery/9.jpg" alt=""></figure>
+                                <figure class="image-box"><img src="@/assets/images/gallery/9.jpg" alt=""></figure> -->
                                 <!--Overlay Box-->
-                                <div class="overlay-box">
+                                <!-- <div class="overlay-box">
                                     <a href="@/assets/images/gallery/9.jpg" class="lightbox-image image-link" title="Image Caption Here"><span class="icon flaticon-cross"></span></a>
                                     <div class="content">
                                         <h3><a href="#">Old Stuffed Ted </a></h3>
@@ -239,14 +239,14 @@
                                     </div>
                                 </div>
                             </div>
-                        </div>
+                        </div> -->
                         
                         <!--Default Portfolio Item-->
-                        <div class="default-portfolio-item small-item all education food water asia">
+                        <!-- <div class="default-portfolio-item small-item all education food water asia">
                             <div class="inner-box">
-                                <figure class="image-box"><img src="@/assets/images/gallery/10.jpg" alt=""></figure>
+                                <figure class="image-box"><img src="@/assets/images/gallery/10.jpg" alt=""></figure> -->
                                 <!--Overlay Box-->
-                                <div class="overlay-box">
+                                <!-- <div class="overlay-box">
                                     <a href="@/assets/images/gallery/10.jpg" class="lightbox-image image-link" title="Image Caption Here"><span class="icon flaticon-cross"></span></a>
                                     <div class="content">
                                         <h3><a href="#">Old Stuffed Ted </a></h3>
@@ -254,14 +254,14 @@
                                     </div>
                                 </div>
                             </div>
-                        </div>
+                        </div> -->
                         
                         <!--Default Portfolio Item-->
-                        <div class="default-portfolio-item small-item all food water asia africa">
+                        <!-- <div class="default-portfolio-item small-item all food water asia africa">
                             <div class="inner-box">
-                                <figure class="image-box"><img src="@/assets/images/gallery/11.jpg" alt=""></figure>
+                                <figure class="image-box"><img src="@/assets/images/gallery/11.jpg" alt=""></figure> -->
                                 <!--Overlay Box-->
-                                <div class="overlay-box">
+                                <!-- <div class="overlay-box">
                                     <a href="@/assets/images/gallery/11.jpg" class="lightbox-image image-link" title="Image Caption Here"><span class="icon flaticon-cross"></span></a>
                                     <div class="content">
                                         <h3><a href="#">Old Stuffed Ted </a></h3>
@@ -269,14 +269,14 @@
                                     </div>
                                 </div>
                             </div>
-                        </div>
+                        </div> -->
                         
                         <!--Default Portfolio Item-->
-                        <div class="default-portfolio-item small-item all education water africa">
+                        <!-- <div class="default-portfolio-item small-item all education water africa">
                             <div class="inner-box">
-                                <figure class="image-box"><img src="@/assets/images/gallery/12.jpg" alt=""></figure>
+                                <figure class="image-box"><img src="@/assets/images/gallery/12.jpg" alt=""></figure> -->
                                 <!--Overlay Box-->
-                                <div class="overlay-box">
+                                <!-- <div class="overlay-box">
                                     <a href="@/assets/images/gallery/12.jpg" class="lightbox-image image-link" title="Image Caption Here"><span class="icon flaticon-cross"></span></a>
                                     <div class="content">
                                         <h3><a href="#">Old Stuffed Ted </a></h3>
@@ -284,14 +284,14 @@
                                     </div>
                                 </div>
                             </div>
-                        </div>
+                        </div> -->
                         
                         <!--Default Portfolio Item-->
-                        <div class="default-portfolio-item small-item all education food water asia africa">
+                        <!-- <div class="default-portfolio-item small-item all education food water asia africa">
                             <div class="inner-box">
-                                <figure class="image-box"><img src="@/assets/images/gallery/13.jpg" alt=""></figure>
+                                <figure class="image-box"><img src="@/assets/images/gallery/13.jpg" alt=""></figure> -->
                                 <!--Overlay Box-->
-                                <div class="overlay-box">
+                                <!-- <div class="overlay-box">
                                     <a href="@/assets/images/gallery/13.jpg" class="lightbox-image image-link" title="Image Caption Here"><span class="icon flaticon-cross"></span></a>
                                     <div class="content">
                                         <h3><a href="#">Old Stuffed Ted </a></h3>
@@ -299,14 +299,14 @@
                                     </div>
                                 </div>
                             </div>
-                        </div>
+                        </div> -->
                         
                         <!--Default Portfolio Item-->
-                        <div class="default-portfolio-item big-item all food asia">
+                        <!-- <div class="default-portfolio-item big-item all food asia">
                             <div class="inner-box">
-                                <figure class="image-box"><img src="@/assets/images/gallery/14.jpg" alt=""></figure>
+                                <figure class="image-box"><img src="@/assets/images/gallery/14.jpg" alt=""></figure> -->
                                 <!--Overlay Box-->
-                                <div class="overlay-box">
+                                <!-- <div class="overlay-box">
                                     <a href="@/assets/images/gallery/14.jpg" class="lightbox-image image-link" title="Image Caption Here"><span class="icon flaticon-cross"></span></a>
                                     <div class="content">
                                         <h3><a href="#">Old Stuffed Ted </a></h3>
@@ -320,9 +320,9 @@
                 </div>
             </div>
                    
-        </div>
+        </div> -->
         <Footer/>
-    </section>
+    <!-- </section> -->
     
     
   </template>
