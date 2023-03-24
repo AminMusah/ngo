@@ -85,18 +85,18 @@
     
     
     <!--Team Section-->
-    <section class="team-section">
+    <!-- <section class="team-section">
     	<div class="outer-container">
         	<div class="lined-title"><h2>Featured Donors</h2></div>
     	</div>
        	
         <div class="carousel-outer">
-        	<div class="outer-container">
+        	<div class="outer-container"> -->
                 <!--Team Carousel-->
-                <div class="team-carousel">
+                <!-- <div class="team-carousel"> -->
                     
                     <!--Team Member-->
-                    <div class="team-member">
+                    <!-- <div class="team-member">
                         <div class="inner-box">
                             <div class="image-box">
                                 <figure class="image"><img src="@/assets/images/resource/team-image-1.png" alt=""></figure>
@@ -115,10 +115,10 @@
                                 </div>
                             </div>
                         </div>
-                    </div>
+                    </div> -->
                     
                     <!--Team Member-->
-                    <div class="team-member">
+                    <!-- <div class="team-member">
                         <div class="inner-box">
                             <div class="image-box">
                                 <figure class="image"><img src="@/assets/images/resource/team-image-2.png" alt=""></figure>
@@ -137,10 +137,10 @@
                                 </div>
                             </div>
                         </div>
-                    </div>
+                    </div> -->
                     
                     <!--Team Member-->
-                    <div class="team-member">
+                    <!-- <div class="team-member">
                         <div class="inner-box">
                             <div class="image-box">
                                 <figure class="image"><img src="@/assets/images/resource/team-image-3.png" alt=""></figure>
@@ -163,8 +163,8 @@
                     
                 </div>
             </div>
-        </div>
-    </section>
+        </div> -->
+    <!-- </section> -->
     
     <Sponser/>
     <Footer/>

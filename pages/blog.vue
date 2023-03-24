@@ -200,11 +200,11 @@
                            <div class="sidebar-widget boxed-widget popular-posts wow fadeInUp" data-wow-delay="0ms" data-wow-duration="1500ms">
                                <div class="widget-title"><h2>RECENT POST</h2></div>
                                
-                               <!-- <article class="post">
-                                   <figure class="post-thumb"><a href="#"><img src="images/resource/post-thumb-1.jpg" alt=""></a></figure>
+                               <article class="post">
+                                   <figure class="post-thumb"><a href="#"><img src="images/resource/post-thumb-3.jpg" alt=""></a></figure>
                                    <h4><a href="#">Micenas Placerat Nibh Loreming</a></h4>
                                    <div class="post-info">SEP 29, 2015</div>
-                               </article> -->
+                               </article>
                                
                                <article class="post">
                                    <figure class="post-thumb"><a href="#"><img src="@/assets/images/resource/post-thumb-2.jpg" alt=""></a></figure>
