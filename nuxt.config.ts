@@ -3,7 +3,6 @@
 export default defineNuxtConfig({
   css: [
     "@/assets/css/style.css",
-    "@/assets/css/revolution-slider.css",
     "@/assets/css/responsive.css",
     "@/assets/css/bootstrap.css",
     "@/assets/css/flaticon.css",
