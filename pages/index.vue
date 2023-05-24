@@ -16,7 +16,7 @@
               data-title="Awesome Title Here"
             >
               <img
-                src="@/assets/images/main-slider/3.jpg"
+                src="@/assets/images/Homepage/Homepage1.jpg"
                 alt=""
                 data-bgposition="center bottom"
                 data-bgfit="cover"
@@ -239,6 +239,8 @@
         </div>
       </div>
     </section>
+    <!-- <Slider /> -->
+
     <!--About Section-->
     <section class="about-section">
       <div class="auto-container">
@@ -248,10 +250,10 @@
           <!--Tabs Box-->
           <div class="tabs-box">
             <!--Tab Buttons-->
-            <div class="tab-buttons">
+            <!-- <div class="tab-buttons">
               <a class="tab-btn active-btn" href="#history-tab">History</a>
               <a class="tab-btn" href="#mission-tab">Mission</a>
-            </div>
+            </div> -->
 
             <!--Tabs Content-->
             <div class="tabs-content">
@@ -261,17 +263,14 @@
                   <!--Content Column-->
                   <div class="column content-column col-md-6 col-xs-12">
                     <div class="inner">
-                      <div class="bold-text">
-                        Lorem Ipsum is simply dummy text of the printing and
-                        typesetting industry.
-                      </div>
+                      <div class="bold-text">Mission</div>
                       <div class="default-text">
-                        Lorem Ipsum has been the industry's stan dard dummy text
-                        ever since the 1500s, when an un known printer took a
-                        galley of type and scrambled it to make a type specimen
-                        book. It has survived not only five centuries, but also
-                        the leap into ele ctronic typesetting, remaining
-                        essentially un changed.
+                        Moving Forward Together (MFT) is a non-profit
+                        organization committed to creating networking
+                        opportunities where members have a platform to promote
+                        their business endeavors, support local businesses,
+                        share knowledge, sharpen skill sets and empower
+                        underserved communities to achieve self-sufficiency.
                       </div>
                     </div>
                   </div>
@@ -281,7 +280,7 @@
                     <div class="inner">
                       <figure class="image-box">
                         <img
-                          src="@/assets/images/resource/featured-image-1.jpg"
+                          src="@/assets/images/295907707_2161151860711817_4407419216341760823_n.jpg"
                           alt=""
                         />
                       </figure>
@@ -333,7 +332,7 @@
     <!--Recent Causes Section-->
     <section class="recent-causes-section dark-layout">
       <div class="outer-container">
-        <div class="lined-title"><h2>Recent Causes</h2></div>
+        <div class="lined-title"><h2>Donation</h2></div>
 
         <div class="row clearfix">
           <!--Default Cause Column-->
@@ -488,10 +487,10 @@
         </div>
 
         <div class="text-center view-more">
-          <a href="causes-1.html" class="theme-btn btn-style-two light"
+          <NuxtLink to="donation" class="theme-btn btn-style-two light"
             >View All
             <span class="sep-icon"><i class="fa fa-angle-right"></i></span
-          ></a>
+          ></NuxtLink>
         </div>
       </div>
     </section>
@@ -816,8 +815,8 @@
         <div class="lined-title"><h2>Our Projects</h2></div>
         <div class="outer-box">
           <div class="sortable-masonry"> -->
-            <!--Filter-->
-            <!-- <div class="filters text-center">
+    <!--Filter-->
+    <!-- <div class="filters text-center">
               <ul class="filter-tabs filter-btns clearfix">
                 <li class="active filter" data-role="button" data-filter=".all">
                   All Projects
@@ -840,17 +839,17 @@
               </ul>
             </div> -->
 
-            <!-- <div class="items-container clearfix"> -->
-              <!--Default Portfolio Item-->
-              <!-- <div
+    <!-- <div class="items-container clearfix"> -->
+    <!--Default Portfolio Item-->
+    <!-- <div
                 class="default-portfolio-item big-item all water asia africa"
               >
                 <div class="inner-box">
                   <figure class="image-box">
                     <img src="@/assets/images/gallery/9.jpg" alt="" />
                   </figure> -->
-                  <!--Overlay Box-->
-                  <!-- <div class="overlay-box">
+    <!--Overlay Box-->
+    <!-- <div class="overlay-box">
                     <a
                       href="@/assets/images/gallery/9.jpg"
                       class="lightbox-image image-link"
@@ -865,16 +864,16 @@
                 </div>
               </div> -->
 
-              <!--Default Portfolio Item-->
-              <!-- <div
+    <!--Default Portfolio Item-->
+    <!-- <div
                 class="default-portfolio-item small-item all education food water asia"
               >
                 <div class="inner-box">
                   <figure class="image-box">
                     <img src="@/assets/images/gallery/10.jpg" alt="" />
                   </figure> -->
-                  <!--Overlay Box-->
-                  <!-- <div class="overlay-box">
+    <!--Overlay Box-->
+    <!-- <div class="overlay-box">
                     <a
                       href="@/assets/images/gallery/10.jpg"
                       class="lightbox-image image-link"
@@ -889,16 +888,16 @@
                 </div>
               </div> -->
 
-              <!--Default Portfolio Item-->
-              <!-- <div
+    <!--Default Portfolio Item-->
+    <!-- <div
                 class="default-portfolio-item small-item all food water asia africa"
               >
                 <div class="inner-box">
                   <figure class="image-box">
                     <img src="@/assets/images/gallery/11.jpg" alt="" />
                   </figure> -->
-                  <!--Overlay Box-->
-                  <!-- <div class="overlay-box">
+    <!--Overlay Box-->
+    <!-- <div class="overlay-box">
                     <a
                       href="@/assets/images/gallery/11.jpg"
                       class="lightbox-image image-link"
@@ -913,16 +912,16 @@
                 </div>
               </div> -->
 
-              <!--Default Portfolio Item-->
-              <!-- <div
+    <!--Default Portfolio Item-->
+    <!-- <div
                 class="default-portfolio-item small-item all education water africa"
               >
                 <div class="inner-box">
                   <figure class="image-box">
                     <img src="@/assets/images/gallery/12.jpg" alt="" />
                   </figure> -->
-                  <!--Overlay Box-->
-                  <!-- <div class="overlay-box">
+    <!--Overlay Box-->
+    <!-- <div class="overlay-box">
                     <a
                       href="@/assets/images/gallery/12.jpg"
                       class="lightbox-image image-link"
@@ -937,16 +936,16 @@
                 </div>
               </div> -->
 
-              <!--Default Portfolio Item-->
-              <!-- <div
+    <!--Default Portfolio Item-->
+    <!-- <div
                 class="default-portfolio-item small-item all education food water asia africa"
               >
                 <div class="inner-box">
                   <figure class="image-box">
                     <img src="@/assets/images/gallery/13.jpg" alt="" />
                   </figure> -->
-                  <!--Overlay Box-->
-                  <!-- <div class="overlay-box">
+    <!--Overlay Box-->
+    <!-- <div class="overlay-box">
                     <a
                       href="@/assets/images/gallery/13.jpg"
                       class="lightbox-image image-link"
@@ -961,14 +960,14 @@
                 </div>
               </div> -->
 
-              <!--Default Portfolio Item-->
-              <!-- <div class="default-portfolio-item big-item all food asia">
+    <!--Default Portfolio Item-->
+    <!-- <div class="default-portfolio-item big-item all food asia">
                 <div class="inner-box">
                   <figure class="image-box">
                     <img src="@/assets/images/gallery/14.jpg" alt="" />
                   </figure> -->
-                  <!--Overlay Box-->
-                  <!-- <div class="overlay-box">
+    <!--Overlay Box-->
+    <!-- <div class="overlay-box">
                     <a
                       href="@/assets/images/gallery/14.jpg"
                       class="lightbox-image image-link"
@@ -1003,9 +1002,7 @@ export default {
           name: "description",
           content: "This is the official homepage for Moving Forward Together",
         },
-        
       ],
-
     });
   },
 };
