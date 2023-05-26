@@ -49,7 +49,10 @@
           data-wow-duration="1500ms"
         >
           <figure class="image-box">
-            <img src="@/assets/images/resource/featured-image-2.jpg" alt="" />
+            <img
+              src="@/assets/images/294528148_741124427121235_4217367742601174660_n.jpg"
+              alt=""
+            />
             <!-- <div class="overlay">
               <div class="square-box"></div>
               <h2>This has to be ended <br />right now</h2>
@@ -96,7 +99,10 @@
           data-wow-duration="1500ms"
         >
           <figure class="image-box">
-            <img src="@/assets/images/resource/featured-image-2.jpg" alt="" />
+            <img
+              src="@/assets/images/8DBDAB68-DE19-4762-870A-56F7A1E099C9.jpeg"
+              alt=""
+            />
             <!-- <div class="overlay">
               <div class="square-box"></div>
               <h2>This has to be ended <br />right now</h2>
@@ -309,7 +315,7 @@
               <div class="imagebox">
                 <figure class="img">
                   <img
-                    src="@/assets/images/ExecutiveTeam_BoardMembers/Photo4-AngelaSmith,Treasurer_BoardMember.jpeg"
+                    src="@/assets/images/DBC50192-1A6F-46B4-B9CF-49A0669089B4.jpeg"
                     alt=""
                   />
                 </figure>

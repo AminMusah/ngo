@@ -1,7 +1,7 @@
 <template>
   <Header />
   <!--Page Title-->
-  <section class="page-title">
+  <section class="donate-page-title">
     <div class="auto-container">
       <h1>Give Back</h1>
       <ul class="bread-crumb clearfix">

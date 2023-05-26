@@ -1,8 +1,6 @@
 <template>
-  <Header/>
-  <section
-    class="page-title"
-  >
+  <Header />
+  <section class="event-page-title">
     <div class="auto-container">
       <h1>Events</h1>
       <ul class="bread-crumb clearfix">
@@ -15,11 +13,19 @@
   <!--Events Section-->
   <section class="events-section">
     <div class="outer-container">
-      <div class="lined-title"><h2>Find Events near you</h2></div>
+      <div class="lined-title"><h2>Events</h2></div>
+      <div class="event-text">
+        Moving Forward Together (MFT) hosts several in-person and virtual
+        fundraisers, volunteer projects, educational workshops and social events
+        to serve and educate our community, support small businesses and create
+        networking opportunities.<br />
+        We focus and support initiatives that promote health and wellness,
+        financial literacy and workforce skills development.
+      </div>
 
       <div class="auto-container">
         <!--Filters Box-->
-        <div class="filters-box">
+        <!-- <div class="filters-box">
           <div class="row clearfix">
             <div class="form-group col-lg-3 col-md-3 col-sm-4 col-xs-12">
               <select name="sel-cat">
@@ -52,7 +58,7 @@
               <button type="button" class="theme-btn">Search</button>
             </div>
           </div>
-        </div>
+        </div> -->
 
         <!--Default Event Box-->
         <div
@@ -64,115 +70,9 @@
             <div class="image-column">
               <figure class="image-box">
                 <a href="#"
-                  ><img src="@/assets/images/resource/event-image-4.jpg" alt=""
-                /></a>
-              </figure>
-            </div>
-            <div class="content-column">
-              <div class="row clearfix">
-                <!--Content-->
-                <div class="content col-md-7 col-sm-12 col-xs-12">
-                  <h2><a href="#">World Humanitarian Summit</a></h2>
-                  <div class="text">
-                    Sed do eiusmod tempor incididunt ut labore et dolore magna
-                    aliqua.
-                  </div>
-                </div>
-                <!--Info-->
-                <div class="info col-md-5 col-sm-12 col-xs-12">
-                  <ul class="info-list">
-                    <li class="clearfix">
-                      <strong>Time</strong>
-                      <div class="info-text">11 am - 3 pm</div>
-                    </li>
-                    <li class="clearfix">
-                      <strong>Location</strong>
-                      <div class="info-text">South side auditorium, NJ</div>
-                    </li>
-                    <li class="clearfix">
-                      <strong>Date</strong>
-                      <div class="info-text">19 Feb, 2016</div>
-                    </li>
-                  </ul>
-
-                  <div class="padd-left-30">
-                    <a href="#" class="theme-btn btn-style-two light"
-                      >Register
-                      <span class="sep-icon"
-                        ><i class="fa fa-angle-right"></i></span
-                    ></a>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-
-        <!--Default Event Box-->
-        <div
-          class="default-event-box wow fadeInLeft"
-          data-wow-delay="0ms"
-          data-wow-duration="1500ms"
-        >
-          <div class="inner-box clearfix">
-            <div class="image-column">
-              <figure class="image-box">
-                <a href="#"
-                  ><img src="@/assets/images/resource/event-image-5.jpg" alt=""
-                /></a>
-              </figure>
-            </div>
-            <div class="content-column">
-              <div class="row clearfix">
-                <!--Content-->
-                <div class="content col-md-7 col-sm-12 col-xs-12">
-                  <h2><a href="#">Charity Challenges Events</a></h2>
-                  <div class="text">
-                    Sed do eiusmod tempor incididunt ut labore et dolore magna
-                    aliqua.
-                  </div>
-                </div>
-                <!--Info-->
-                <div class="info col-md-5 col-sm-12 col-xs-12">
-                  <ul class="info-list">
-                    <li class="clearfix">
-                      <strong>Time</strong>
-                      <div class="info-text">11 am - 3 pm</div>
-                    </li>
-                    <li class="clearfix">
-                      <strong>Location</strong>
-                      <div class="info-text">South side auditorium, NJ</div>
-                    </li>
-                    <li class="clearfix">
-                      <strong>Date</strong>
-                      <div class="info-text">19 Feb, 2016</div>
-                    </li>
-                  </ul>
-
-                  <div class="padd-left-30">
-                    <a href="#" class="theme-btn btn-style-two light"
-                      >Register
-                      <span class="sep-icon"
-                        ><i class="fa fa-angle-right"></i></span
-                    ></a>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-
-        <!--Default Event Box-->
-        <div
-          class="default-event-box wow fadeInLeft"
-          data-wow-delay="0ms"
-          data-wow-duration="1500ms"
-        >
-          <div class="inner-box clearfix">
-            <div class="image-column">
-              <figure class="image-box">
-                <a href="#"
-                  ><img src="@/assets/images/resource/event-image-6.jpg" alt=""
+                  ><img
+                    src="@/assets/images/8DBDAB68-DE19-4762-870A-56F7A1E099C9.jpeg"
+                    alt=""
                 /></a>
               </figure>
             </div>
@@ -181,11 +81,13 @@
                 <!--Content-->
                 <div class="content col-md-7 col-sm-12 col-xs-12">
                   <h2>
-                    <a href="#">Make The World <br />Better</a>
+                    <a href="#">
+                      Finding Grants for Small Businesses & Non-Profit
+                      Organizations Workshop
+                    </a>
                   </h2>
                   <div class="text">
-                    Sed do eiusmod tempor incididunt ut labore et dolore magna
-                    aliqua.
+                    Please contact us or reach out to member for details
                   </div>
                 </div>
                 <!--Info-->
@@ -201,7 +103,7 @@
                     </li>
                     <li class="clearfix">
                       <strong>Date</strong>
-                      <div class="info-text">19 Feb, 2016</div>
+                      <div class="info-text">May 23</div>
                     </li>
                   </ul>
 
@@ -228,7 +130,62 @@
             <div class="image-column">
               <figure class="image-box">
                 <a href="#"
-                  ><img src="@/assets/images/resource/event-image-7.jpg" alt=""
+                  ><img
+                    src="@/assets/images/295302058_568172274897195_6367048949004839852_n.jpg"
+                    alt=""
+                /></a>
+              </figure>
+            </div>
+            <div class="content-column">
+              <div class="row clearfix">
+                <!--Content-->
+                <div class="content col-md-7 col-sm-12 col-xs-12">
+                  <h2><a href="#">Popcorn Fundraiser </a></h2>
+                  <div class="text">link to fundraiser TBD</div>
+                </div>
+                <!--Info-->
+                <div class="info col-md-5 col-sm-12 col-xs-12">
+                  <ul class="info-list">
+                    <li class="clearfix">
+                      <strong>Time</strong>
+                      <div class="info-text">11 am - 3 pm</div>
+                    </li>
+                    <li class="clearfix">
+                      <strong>Location</strong>
+                      <div class="info-text">South side auditorium, NJ</div>
+                    </li>
+                    <li class="clearfix">
+                      <strong>Date</strong>
+                      <div class="info-text">June 1st</div>
+                    </li>
+                  </ul>
+
+                  <div class="padd-left-30">
+                    <a href="#" class="theme-btn btn-style-two light"
+                      >Register
+                      <span class="sep-icon"
+                        ><i class="fa fa-angle-right"></i></span
+                    ></a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!--Default Event Box-->
+        <div
+          class="default-event-box wow fadeInLeft"
+          data-wow-delay="0ms"
+          data-wow-duration="1500ms"
+        >
+          <div class="inner-box clearfix">
+            <div class="image-column">
+              <figure class="image-box">
+                <a href="#"
+                  ><img
+                    src="@/assets/images/295847573_121855040565524_803993096710324410_n.jpg"
+                    alt=""
                 /></a>
               </figure>
             </div>
@@ -237,11 +194,10 @@
                 <!--Content-->
                 <div class="content col-md-7 col-sm-12 col-xs-12">
                   <h2>
-                    <a href="#">Impact of Child <br />Labour</a>
+                    <a href="#"> Juneteenth Celebration Workshop</a>
                   </h2>
                   <div class="text">
-                    Sed do eiusmod tempor incididunt ut labore et dolore magna
-                    aliqua.
+                    Please contact us or reach out to member for details
                   </div>
                 </div>
                 <!--Info-->
@@ -257,7 +213,115 @@
                     </li>
                     <li class="clearfix">
                       <strong>Date</strong>
-                      <div class="info-text">19 Feb, 2016</div>
+                      <div class="info-text">June 18th</div>
+                    </li>
+                  </ul>
+
+                  <div class="padd-left-30">
+                    <a href="#" class="theme-btn btn-style-two light"
+                      >Register
+                      <span class="sep-icon"
+                        ><i class="fa fa-angle-right"></i></span
+                    ></a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!--Default Event Box-->
+        <div
+          class="default-event-box wow fadeInLeft"
+          data-wow-delay="0ms"
+          data-wow-duration="1500ms"
+        >
+          <div class="inner-box clearfix">
+            <div class="image-column">
+              <figure class="image-box">
+                <a href="#"
+                  ><img
+                    src="@/assets/images/294228277_384900810376146_7284471715113305548_n.jpg"
+                    alt=""
+                /></a>
+              </figure>
+            </div>
+            <div class="content-column">
+              <div class="row clearfix">
+                <!--Content-->
+                <div class="content col-md-7 col-sm-12 col-xs-12">
+                  <h2>
+                    <a href="#">Paint and Sip Fundraiser </a>
+                  </h2>
+                  <div class="text">event page TBD</div>
+                </div>
+                <!--Info-->
+                <div class="info col-md-5 col-sm-12 col-xs-12">
+                  <ul class="info-list">
+                    <li class="clearfix">
+                      <strong>Time</strong>
+                      <div class="info-text">11 am - 3 pm</div>
+                    </li>
+                    <li class="clearfix">
+                      <strong>Location</strong>
+                      <div class="info-text">South side auditorium, NJ</div>
+                    </li>
+                    <li class="clearfix">
+                      <strong>Date</strong>
+                      <div class="info-text">July 21st</div>
+                    </li>
+                  </ul>
+
+                  <div class="padd-left-30">
+                    <a href="#" class="theme-btn btn-style-two light"
+                      >Register
+                      <span class="sep-icon"
+                        ><i class="fa fa-angle-right"></i></span
+                    ></a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div
+          class="default-event-box wow fadeInLeft"
+          data-wow-delay="0ms"
+          data-wow-duration="1500ms"
+        >
+          <div class="inner-box clearfix">
+            <div class="image-column">
+              <figure class="image-box">
+                <a href="#"
+                  ><img
+                    src="@/assets/images/82245ACC-3672-4A0B-94EB-B8661C72DD53.jpeg"
+                    alt=""
+                /></a>
+              </figure>
+            </div>
+            <div class="content-column">
+              <div class="row clearfix">
+                <!--Content-->
+                <div class="content col-md-7 col-sm-12 col-xs-12">
+                  <h2>
+                    <a href="#">Back to School BBQ Fundraiser</a>
+                  </h2>
+                  <!-- <div class="text">event page TBD</div> -->
+                </div>
+                <!--Info-->
+                <div class="info col-md-5 col-sm-12 col-xs-12">
+                  <ul class="info-list">
+                    <li class="clearfix">
+                      <strong>Time</strong>
+                      <div class="info-text">11 am - 3 pm</div>
+                    </li>
+                    <li class="clearfix">
+                      <strong>Location</strong>
+                      <div class="info-text">South side auditorium, NJ</div>
+                    </li>
+                    <li class="clearfix">
+                      <strong>Date</strong>
+                      <div class="info-text">August 13th</div>
                     </li>
                   </ul>
 
@@ -286,7 +350,7 @@
 
   <Newsletter />
   <Sponser />
-  <Footer/>
+  <Footer />
 </template>
 
 <script>
@@ -299,9 +363,7 @@ export default {
           name: "description",
           content: "This is the events page for Moving Forward Together",
         },
-        
       ],
-
     });
   },
 };

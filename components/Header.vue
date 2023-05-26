@@ -65,11 +65,11 @@
         <!--Nav Outer End-->
 
         <!-- Hidden Nav Toggler -->
-        <!-- <div class="nav-toggler">
+        <div class="nav-toggler">
           <button class="hidden-bar-opener">
             <span class="icon fa fa-bars"></span>
           </button>
-        </div> -->
+        </div>
       </div>
     </div>
   </header>

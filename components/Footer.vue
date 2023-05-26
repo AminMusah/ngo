@@ -11,9 +11,11 @@
             <div class="footer-widget about-widget">
               <div class="text">
                 <p>
-                  It is a long established fact that a reader will be distracted
-                  by the readable content. Lorem ipsum dolor sit amet,
-                  consecttur adipiscing egestas rhoncus Praesent Nunc pretium.
+                  A non-profit organization committed to creating networking
+                  opportunities where members have a platform to promote their
+                  business endeavors, support local businesses, share knowledge,
+                  sharpen skill sets and empower underserved communities to
+                  achieve self-sufficiency.
                 </p>
               </div>
             </div>
@@ -61,11 +63,33 @@
             <div class="footer-widget contact-info">
               <ul>
                 <li>
-                  <strong>Address:</strong> 250 East Avenue, Pilgrim <br />road,
-                  NJ 5618
+                  <span class="icon fa fa-instagram"></span>
+                  <a
+                    href="https://www.instagram.com/movingforwardtogether_/"
+                    target="_blank"
+                  >
+                    @movingforwardtogether_</a
+                  >
                 </li>
-                <li><strong>Phone:</strong> +192 9934 876 581</li>
-                <li><strong>Email:</strong> info@mftcommunity.org</li>
+
+                <li>
+                  <strong> <span class="icon fa fa-facebook"></span></strong>
+                  <a
+                    href="https://www.instagram.com/movingforwardtogether_/"
+                    target="_blank"
+                  >
+                    @movingforwardtogether</a
+                  >
+                </li>
+                <li>
+                  <span class="icon fa fa-envelope"></span>
+                  <a
+                    href="mailto:info.movingforwardtogether@gmail.com"
+                    target="_blank"
+                  >
+                    info@mftcommunity.org
+                  </a>
+                </li>
               </ul>
             </div>
           </div>
@@ -77,67 +101,73 @@
               <div class="thumbs-outer clearfix">
                 <figure class="image-thumb">
                   <img
-                    src="@/assets/images/gallery/image-thumb-1.jpg"
+                    src="@/assets/images/8A750808-86F3-4499-AEB0-75F18BD073BF.jpeg"
                     alt=""
                   /><a
+                    href="https://www.instagram.com/movingforwardtogether_/"
                     class="lightbox-image"
-                    href="images/resource/products/image-1.jpg"
                     title="Image title here"
+                    target="_blank"
                     ><span class="icon flaticon-cross"></span
                   ></a>
                 </figure>
                 <figure class="image-thumb">
                   <img
-                    src="@/assets/images/gallery/image-thumb-2.jpg"
+                    src="@/assets/images/8DBDAB68-DE19-4762-870A-56F7A1E099C9.jpeg"
                     alt=""
                   /><a
+                    href="https://www.instagram.com/movingforwardtogether_/"
                     class="lightbox-image"
-                    href="images/resource/products/image-2.jpg"
                     title="Image title here"
+                    target="_blank"
                     ><span class="icon flaticon-cross"></span
                   ></a>
                 </figure>
                 <figure class="image-thumb">
                   <img
-                    src="@/assets/images/gallery/image-thumb-3.jpg"
+                    src="@/assets/images/6677CE13-FF6D-45F0-BBB5-830E5A0829A9.jpeg"
                     alt=""
                   /><a
+                    href="https://www.instagram.com/movingforwardtogether_/"
                     class="lightbox-image"
-                    href="images/resource/products/image-3.jpg"
                     title="Image title here"
+                    target="_blank"
                     ><span class="icon flaticon-cross"></span
                   ></a>
                 </figure>
                 <figure class="image-thumb">
                   <img
-                    src="@/assets/images/gallery/image-thumb-4.jpg"
+                    src="@/assets/images/323203487_211383608001224_1812429780663511982_n.jpg"
                     alt=""
                   /><a
+                    href="https://www.instagram.com/movingforwardtogether_/"
                     class="lightbox-image"
-                    href="images/resource/products/image-4.jpg"
                     title="Image title here"
+                    target="_blank"
                     ><span class="icon flaticon-cross"></span
                   ></a>
                 </figure>
                 <figure class="image-thumb">
                   <img
-                    src="@/assets/images/gallery/image-thumb-5.jpg"
+                    src="@/assets/images/69C38D41-5AC2-4C70-8507-565AF7CEE185.jpeg"
                     alt=""
                   /><a
+                    href="https://www.instagram.com/movingforwardtogether_/"
                     class="lightbox-image"
-                    href="images/resource/products/image-5.jpg"
                     title="Image title here"
+                    target="_blank"
                     ><span class="icon flaticon-cross"></span
                   ></a>
                 </figure>
                 <figure class="image-thumb">
                   <img
-                    src="@/assets/images/gallery/image-thumb-6.jpg"
+                    src="@/assets/images/82245ACC-3672-4A0B-94EB-B8661C72DD53.jpeg"
                     alt=""
                   /><a
+                    href="https://www.instagram.com/movingforwardtogether_/"
                     class="lightbox-image"
-                    href="images/resource/products/image-6.jpg"
                     title="Image title here"
+                    target="_blank"
                     ><span class="icon flaticon-cross"></span
                   ></a>
                 </figure>

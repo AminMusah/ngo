@@ -45,18 +45,18 @@
                 <!--Content Style One-->
                 <div class="content-style-one">
                   <h3 class="dashed-text">
-                    BUILDING THE <br />WORLD AROUND US
+                    Moving Forward <br />Together (MFT)
                   </h3>
                   <div class="text">
-                    Still other clients have reserved for capital improvement
-                    projects and will work <br />directly with our Design and
-                    Engineering team.
+                    Moving Forward Together (MFT) is committed to supporting,
+                    <br />
+                    uplifting and empowering ourselves and our communities!
                   </div>
-                  <a href="#" class="theme-btn btn-style-one"
+                  <NuxtLInk to="membership" class="theme-btn btn-style-one"
                     >Join Us
                     <span class="sep-icon"
                       ><i class="fa fa-angle-right"></i></span
-                  ></a>
+                  ></NuxtLInk>
                 </div>
               </div>
             </li>
@@ -325,6 +325,32 @@
               </div>
             </div>
           </div>
+        </div>
+      </div>
+    </section>
+    <section class="donate-now">
+      <div class="outer-container">
+        <div class="centered-title">
+          <h2>Donate Now</h2>
+          <div class="desc-text">GOFUND ME</div>
+        </div>
+
+        <div
+          class="donate-form wow fadeInDown"
+          data-wow-delay="0ms"
+          data-wow-duration="1500ms"
+        >
+          <form
+            method="post"
+            action="https://html.themexriver.com/helping-hands/helping-hands/donation.html"
+          >
+            <a href="https://gofund.me/341c0bc5" target="_blank">
+              <button type="button" class="theme-btn btn-style-two light">
+                Donate
+                <span class="sep-icon"><i class="fa fa-angle-right"></i></span>
+              </button>
+            </a>
+          </form>
         </div>
       </div>
     </section>
@@ -986,6 +1012,32 @@
         </div>
       </div>
     </section> -->
+    <section class="donate-now">
+      <div class="outer-container">
+        <div class="centered-title">
+          <h2>Contact</h2>
+        </div>
+
+        <div
+          class="donate-form wow fadeInDown"
+          data-wow-delay="0ms"
+          data-wow-duration="1500ms"
+        >
+          <form
+            method="post"
+            action="https://html.themexriver.com/helping-hands/helping-hands/donation.html"
+          >
+            <NuxtLink to="contact">
+              <button type="button" class="theme-btn btn-style-two light">
+                Contact Us
+                <span class="sep-icon"><i class="fa fa-angle-right"></i></span>
+              </button>
+            </NuxtLink>
+          </form>
+        </div>
+      </div>
+    </section>
+
     <Newsletter />
     <!-- <Sponser /> -->
     <Footer />
