@@ -1012,6 +1012,9 @@
         </div>
       </div>
     </section> -->
+
+    <Newsletter />
+    <!-- <Sponser /> -->
     <section class="donate-now">
       <div class="outer-container">
         <div class="centered-title">
@@ -1023,23 +1026,15 @@
           data-wow-delay="0ms"
           data-wow-duration="1500ms"
         >
-          <form
-            method="post"
-            action="https://html.themexriver.com/helping-hands/helping-hands/donation.html"
-          >
-            <NuxtLink to="contact">
-              <button type="button" class="theme-btn btn-style-two light">
-                Contact Us
-                <span class="sep-icon"><i class="fa fa-angle-right"></i></span>
-              </button>
-            </NuxtLink>
-          </form>
+          <NuxtLink to="contact">
+            <button type="button" class="theme-btn btn-style-two light">
+              Contact Us
+              <span class="sep-icon"><i class="fa fa-angle-right"></i></span>
+            </button>
+          </NuxtLink>
         </div>
       </div>
     </section>
-
-    <Newsletter />
-    <!-- <Sponser /> -->
     <Footer />
   </div>
 </template>

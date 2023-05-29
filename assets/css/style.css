@@ -249,6 +249,7 @@ li {
   font-size: 16px;
   font-weight: 400;
   font-family: "Montserrat", serif;
+  cursor: pointer;
 }
 
 .btn-style-two.light {
@@ -721,13 +722,14 @@ li {
   left: 0px;
   top: 0px;
   width: 100%;
-  opacity: 0.9;
   -webkit-transition: all 300ms ease;
   -ms-transition: all 300ms ease;
   -o-transition: all 300ms ease;
   -moz-transition: all 300ms ease;
   transition: all 300ms ease;
   background: #212121;
+
+  z-index: 4;
 }
 
 .main-header.fixed-header {
@@ -745,6 +747,7 @@ li {
   display: flex;
   justify-content: space-between;
   align-items: center;
+  background: #212121;
 }
 
 .main-header .main-box .logo-box {
@@ -10157,4 +10160,21 @@ a:focus {
 
 .event-section .column {
   margin-bottom: 20px;
+}
+
+.auth-container {
+  width: 40%;
+  height: 70vh;
+  margin: 20px auto;
+}
+
+.error {
+  color: red;
+  text-align: center;
+}
+
+@media only screen and (max-width: 800px) {
+  .auth-container {
+    width: 80%;
+  }
 }

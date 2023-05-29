@@ -285,7 +285,7 @@
   }
 }
 
-@media only screen and (max-width: 1023px) {
+@media only screen and (max-width: 900px) {
   .main-header {
     position: relative;
     margin: 0px !important;
@@ -312,7 +312,7 @@
     top: 0px;
     right: 0px;
     bottom: 0px;
-    /* width:200px; */
+    width: 100px;
     margin: 0px;
     text-align: left;
   }
