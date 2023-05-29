@@ -1,0 +1,27 @@
+<template>
+  <div class="spinner"></div>
+</template>
+
+<script>
+export default {};
+</script>
+<style>
+.spinner {
+  width: 24px;
+  height: 24px;
+  border-radius: 50%;
+  background: conic-gradient(#0000 10%, #212121);
+  -webkit-mask: radial-gradient(
+    farthest-side,
+    #0000 calc(100% - 3.8px),
+    #000 0
+  );
+  animation: spinner-zp9dbg 1s infinite linear;
+}
+
+@keyframes spinner-zp9dbg {
+  to {
+    transform: rotate(1turn);
+  }
+}
+</style>

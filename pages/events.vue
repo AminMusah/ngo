@@ -340,7 +340,7 @@
       </div>
 
       <div class="text-center view-more padd-top-60">
-        <a href="causes-1.html" class="theme-btn btn-style-two light"
+        <a href="#" class="theme-btn btn-style-two light"
           >Load More
           <span class="sep-icon"><i class="fa fa-angle-right"></i></span
         ></a>

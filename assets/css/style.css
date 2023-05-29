@@ -2485,7 +2485,8 @@ li {
 .tp-banner ul li img {
   width: 100%;
   object-fit: cover;
-  aspect-ratio: 5/3;
+  aspect-ratio: 2/2;
+  height: 65vh;
 }
 
 /*** 
@@ -2792,7 +2793,7 @@ li {
   color: #ffffff;
   text-align: center;
   background-image: url(assets/images/AboutUsCover.jpg);
-  height: 115vh;
+  height: 65vh;
 }
 
 .about-page-title:before {
@@ -2803,6 +2804,8 @@ li {
   width: 100%;
   height: 100%;
   z-index: 0;
+  background: #000000;
+  opacity: 0.6;
 }
 
 .about-page-title h1 {
@@ -3040,6 +3043,8 @@ li {
 .default-cause-column .inner-box .image-box img {
   display: block;
   width: 100%;
+  object-fit: cover;
+  aspect-ratio: 2/2;
 }
 
 .default-cause-column .inner-box .image-box .overlay {
@@ -5897,7 +5902,7 @@ li {
   background-position: center center;
   color: #ffffff;
   text-align: center;
-  background-image: url(assets/images/background/page-title-1.jpg);
+  background-image: url(assets/images/Homepage/Homepage1.jpg);
 }
 
 .page-title:before {
@@ -5908,7 +5913,7 @@ li {
   width: 100%;
   height: 100%;
   background: #000000;
-  opacity: 0.7;
+  opacity: 0.5;
   z-index: 0;
 }
 
@@ -10015,7 +10020,7 @@ a:focus {
   color: #ffffff;
   text-align: center;
   background-image: url(assets/images/Donate/68C44064-95E7-4D72-A41B-AF70D040590F.jpeg);
-  height: 125vh;
+  height: 65vh;
 }
 
 .donate-page-title:before {
@@ -10026,6 +10031,8 @@ a:focus {
   width: 100%;
   height: 100%;
   z-index: 0;
+  background: #000000;
+  opacity: 0.6;
 }
 
 .donate-page-title h1 {
@@ -10093,7 +10100,7 @@ a:focus {
   color: #ffffff;
   text-align: center;
   background-image: url(assets/images/6677CE13-FF6D-45F0-BBB5-830E5A0829A9.jpeg);
-  height: 125vh;
+  height: 65vh;
 }
 
 .event-page-title:before {
@@ -10104,6 +10111,8 @@ a:focus {
   width: 100%;
   height: 100%;
   z-index: 0;
+  background: #000000;
+  opacity: 0.5;
 }
 
 .event-page-title h1 {

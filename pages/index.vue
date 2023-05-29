@@ -1,9 +1,28 @@
 <template>
   <div>
     <Header />
+    <section class="page-title">
+      <div class="auto-container">
+        <h1>Moving Forward Together (MFT)</h1>
+        <div class="content-style-one">
+          <!-- <div class="text">
+            Moving Forward Together (MFT) is committed to supporting,
+            <br />
+            uplifting and empowering ourselves and our communities!
+          </div> -->
+          <NuxtLink to="membership">
+            <button type="button" class="theme-btn btn-style-one">
+              Join Us
+              <span class="sep-icon"><i class="fa fa-angle-right"></i></span>
+            </button>
+          </NuxtLink>
+        </div>
+      </div>
+    </section>
 
     <!--Main Slider-->
-    <section class="main-slider">
+    <!-- <section class="main-slider">
+      
       <div class="tp-banner-container">
         <div class="tp-banner">
           <ul>
@@ -21,12 +40,12 @@
                 data-bgposition="center bottom"
                 data-bgfit="cover"
                 data-bgrepeat="no-repeat"
-              />
+              /> -->
 
-              <!--Transparent layer Right-->
-              <!-- <div class="transparent-bg-layer-right"></div> -->
+    <!--Transparent layer Right-->
+    <!-- <div class="transparent-bg-layer-right"></div> -->
 
-              <div
+    <!-- <div
                 class="tp-caption sfb sfr tp-resizeme"
                 data-x="center"
                 data-hoffset="0"
@@ -41,9 +60,9 @@
                 data-endelementdelay="0.3"
                 data-endspeed="1200"
                 data-endeasing="Power4.easeIn"
-              >
-                <!--Content Style One-->
-                <div class="content-style-one">
+              > -->
+    <!--Content Style One-->
+    <!-- <div class="content-style-one">
                   <h3 class="dashed-text">
                     Moving Forward <br />Together (MFT)
                   </h3>
@@ -59,9 +78,9 @@
                   ></NuxtLInk>
                 </div>
               </div>
-            </li>
+            </li> -->
 
-            <!-- <li
+    <!-- <li
               data-transition="slidedown"
               data-slotamount="1"
               data-masterspeed="1000"
@@ -77,10 +96,10 @@
                 data-bgrepeat="no-repeat"
               /> -->
 
-            <!--Transparent layer Left-->
-            <!-- <div class="transparent-bg-layer-left"></div> -->
+    <!--Transparent layer Left-->
+    <!-- <div class="transparent-bg-layer-left"></div> -->
 
-            <!-- <div
+    <!-- <div
                 class="tp-caption sfb sft tp-resizeme"
                 data-x="left"
                 data-hoffset="180"
@@ -96,11 +115,11 @@
                 data-endspeed="1200"
                 data-endeasing="Power4.easeIn"
               > -->
-            <!--Square Box-->
-            <!-- <div class="square-box"></div>
+    <!--Square Box-->
+    <!-- <div class="square-box"></div>
               </div> -->
 
-            <!-- <div
+    <!-- <div
                 class="tp-caption sfb sfr tp-resizeme"
                 data-x="left"
                 data-hoffset="15"
@@ -145,7 +164,7 @@
               </div>
             </li> -->
 
-            <!-- <li
+    <!-- <li
               data-transition="slidedown"
               data-slotamount="1"
               data-masterspeed="1000"
@@ -153,7 +172,7 @@
               data-saveperformance="off"
               data-title="Awesome Title Here"
             > -->
-            <!-- <img
+    <!-- <img
                 src="@/assets/images/main-slider/3.jpg"
                 alt=""
                 data-bgposition="center bottom"
@@ -161,9 +180,9 @@
                 data-bgrepeat="no-repeat"
               /> -->
 
-            <!--Transparent layer Right-->
-            <!-- <div class="transparent-bg-layer-right"></div> -->
-            <!-- 
+    <!--Transparent layer Right-->
+    <!-- <div class="transparent-bg-layer-right"></div> -->
+    <!-- 
               <div
                 class="tp-caption sfb sft tp-resizeme"
                 data-x="center"
@@ -233,12 +252,12 @@
                 ></a>
               </div>
             </li> -->
-          </ul>
+    <!-- </ul>
 
           <div class="tp-bannertimer"></div>
         </div>
       </div>
-    </section>
+    </section> -->
     <!-- <Slider /> -->
 
     <!--About Section-->
@@ -328,7 +347,7 @@
         </div>
       </div>
     </section>
-    <section class="donate-now">
+    <!-- <section class="donate-now">
       <div class="outer-container">
         <div class="centered-title">
           <h2>Donate Now</h2>
@@ -353,7 +372,7 @@
           </form>
         </div>
       </div>
-    </section>
+    </section> -->
 
     <!--Recent Causes Section-->
     <section class="recent-causes-section dark-layout">
@@ -371,10 +390,15 @@
               <!--Image Box-->
               <figure class="image-box">
                 <img
-                  src="@/assets/images/resource/cause-image-1.jpg"
+                  src="@/assets/images/8DBDAB68-DE19-4762-870A-56F7A1E099C9.jpeg"
                   alt=""
                 /><a href="#" class="overlay"></a>
-                <h3><a href="#">Safe and Reliable Water Matters</a></h3>
+                <h3>
+                  <a href="#">
+                    Finding Grants for Small Businesses & Non-Profit
+                    Organizations Workshop</a
+                  >
+                </h3>
               </figure>
               <!--Lower Content-->
               <div class="lower-content">
@@ -398,14 +422,16 @@
                 <div class="text-center">
                   <!--Defult Text-->
                   <div class="default-text">
-                    Omnis iste natus error sit voluptatem accu santium
-                    doloremque laudantium, totam rem aperiam.
+                    Please contact us or reach out to member for details
                   </div>
-                  <a href="donation.html" class="theme-btn btn-style-two"
-                    >Donate
-                    <span class="sep-icon"
-                      ><i class="fa fa-angle-right"></i></span
-                  ></a>
+                  <a href="https://gofund.me/341c0bc5" target="_blank">
+                    <button type="button" class="theme-btn btn-style-two light">
+                      Donate
+                      <span class="sep-icon"
+                        ><i class="fa fa-angle-right"></i
+                      ></span>
+                    </button>
+                  </a>
                 </div>
               </div>
             </div>
@@ -421,10 +447,10 @@
               <!--Image Box-->
               <figure class="image-box">
                 <img
-                  src="@/assets/images/resource/cause-image-2.jpg"
+                  src="@/assets/images/295302058_568172274897195_6367048949004839852_n.jpg"
                   alt=""
                 /><a href="#" class="overlay"></a>
-                <h3><a href="#">Safe and Reliable Water Matters</a></h3>
+                <h3><a href="#">Popcorn Fundraiser </a></h3>
               </figure>
               <!--Lower Content-->
               <div class="lower-content">
@@ -448,14 +474,16 @@
                 <div class="text-center">
                   <!--Defult Text-->
                   <div class="default-text">
-                    Omnis iste natus error sit voluptatem accu santium
-                    doloremque laudantium, totam rem aperiam.
+                    Please contact us or reach out to member for details
                   </div>
-                  <a href="donation.html" class="theme-btn btn-style-two"
-                    >Donate
-                    <span class="sep-icon"
-                      ><i class="fa fa-angle-right"></i></span
-                  ></a>
+                  <a href="https://gofund.me/341c0bc5" target="_blank">
+                    <button type="button" class="theme-btn btn-style-two light">
+                      Donate
+                      <span class="sep-icon"
+                        ><i class="fa fa-angle-right"></i
+                      ></span>
+                    </button>
+                  </a>
                 </div>
               </div>
             </div>
@@ -471,10 +499,10 @@
               <!--Image Box-->
               <figure class="image-box">
                 <img
-                  src="@/assets/images/resource/cause-image-3.jpg"
+                  src="@/assets/images/295847573_121855040565524_803993096710324410_n.jpg"
                   alt=""
                 /><a href="#" class="overlay"></a>
-                <h3><a href="#">Safe and Reliable Water Matters</a></h3>
+                <h3><a href="#">Juneteenth Celebration Workshop</a></h3>
               </figure>
               <!--Lower Content-->
               <div class="lower-content">
@@ -498,14 +526,16 @@
                 <div class="text-center">
                   <!--Defult Text-->
                   <div class="default-text">
-                    Omnis iste natus error sit voluptatem accu santium
-                    doloremque laudantium, totam rem aperiam.
+                    Please contact us or reach out to member for details
                   </div>
-                  <a href="donation.html" class="theme-btn btn-style-two"
-                    >Donate
-                    <span class="sep-icon"
-                      ><i class="fa fa-angle-right"></i></span
-                  ></a>
+                  <a href="https://gofund.me/341c0bc5" target="_blank">
+                    <button type="button" class="theme-btn btn-style-two light">
+                      Donate
+                      <span class="sep-icon"
+                        ><i class="fa fa-angle-right"></i
+                      ></span>
+                    </button>
+                  </a>
                 </div>
               </div>
             </div>
@@ -536,22 +566,22 @@
             >
               <div class="inner-box clearfix">
                 <div class="post-date">
-                  <span class="day">26</span><span class="month">March</span>
+                  <span class="day"> 13th</span
+                  ><span class="month">August </span>
                 </div>
                 <figure class="image-box">
                   <img
-                    src="@/assets/images/resource/event-image-1.jpg"
+                    src="@/assets/images/82245ACC-3672-4A0B-94EB-B8661C72DD53.jpeg"
                     alt=""
                   />
                 </figure>
                 <div class="content-box">
                   <h3>
-                    <a href="#">Help the Chlidren in need</a
+                    <a href="#"> Back to School BBQ Fundraiser</a
                     ><span class="line"></span>
                   </h3>
                   <div class="desc-text">
-                    It is a long established fact that a reader will be
-                    distracted by the read able content.
+                    Please contact us or reach out to member for details
                   </div>
                   <ul class="info">
                     <li>
@@ -564,7 +594,7 @@
                     </li>
                   </ul>
                   <div class="link-box">
-                    <a href="causes-1.html" class="theme-btn btn-style-two"
+                    <a href="#" class="theme-btn btn-style-two"
                       >Register
                       <span class="sep-icon"
                         ><i class="fa fa-angle-right"></i></span
@@ -582,22 +612,20 @@
             >
               <div class="inner-box clearfix">
                 <div class="post-date">
-                  <span class="day">24</span><span class="month">March</span>
+                  <span class="day">1st</span><span class="month">June </span>
                 </div>
                 <figure class="image-box">
                   <img
-                    src="@/assets/images/resource/event-image-1.jpg"
+                    src="@/assets/images/295302058_568172274897195_6367048949004839852_n.jpg"
                     alt=""
                   />
                 </figure>
                 <div class="content-box">
                   <h3>
-                    <a href="#">Help the Chlidren in need</a
-                    ><span class="line"></span>
+                    <a href="#">Popcorn Fundraiser</a><span class="line"></span>
                   </h3>
                   <div class="desc-text">
-                    It is a long established fact that a reader will be
-                    distracted by the read able content.
+                    Please contact us or reach out to member for details
                   </div>
                   <ul class="info">
                     <li>
@@ -610,7 +638,7 @@
                     </li>
                   </ul>
                   <div class="link-box">
-                    <a href="causes-1.html" class="theme-btn btn-style-two"
+                    <a href="#" class="theme-btn btn-style-two"
                       >Register
                       <span class="sep-icon"
                         ><i class="fa fa-angle-right"></i></span
@@ -631,11 +659,11 @@
             >
               <div class="inner-box clearfix">
                 <div class="post-date">
-                  <span class="day">20</span><span class="month">March</span>
+                  <span class="day">18th</span><span class="month">June </span>
                 </div>
                 <figure class="image-box">
                   <img
-                    src="@/assets/images/resource/event-image-2.jpg"
+                    src="@/assets/images/295847573_121855040565524_803993096710324410_n.jpg"
                     alt=""
                   />
                 </figure>
@@ -643,7 +671,7 @@
 
                 <div class="content-box">
                   <h3>
-                    <a href="#">Global march against child labour</a
+                    <a href="#">Juneteenth Celebration Workshop</a
                     ><span class="line"></span>
                   </h3>
                   <ul class="info clearfix">
@@ -657,7 +685,7 @@
                     </li>
                   </ul>
                   <div class="link-box">
-                    <a href="causes-1.html" class="theme-btn btn-style-two"
+                    <a href="#" class="theme-btn btn-style-two"
                       >Register
                       <span class="sep-icon"
                         ><i class="fa fa-angle-right"></i></span
@@ -675,17 +703,17 @@
             >
               <div class="inner-box clearfix">
                 <div class="post-date">
-                  <span class="day">26</span><span class="month">March</span>
+                  <span class="day">21st</span><span class="month">July </span>
                 </div>
                 <figure class="image-box">
                   <img
-                    src="@/assets/images/resource/event-image-3.jpg"
+                    src="@/assets/images/294228277_384900810376146_7284471715113305548_n.jpg"
                     alt=""
                   />
                 </figure>
                 <div class="content-box">
                   <h3>
-                    <a href="#">Help the Chlidren in need</a
+                    <a href="#">Paint and Sip Fundraiser </a
                     ><span class="line"></span>
                   </h3>
                   <ul class="info">
@@ -705,9 +733,9 @@
         </div>
 
         <div class="text-center padd-top-60 more">
-          <a href="#" class="theme-btn btn-style-two light"
+          <NuxtLink to="events" class="theme-btn btn-style-two light"
             >More <span class="sep-icon"><i class="fa fa-angle-right"></i></span
-          ></a>
+          ></NuxtLink>
         </div>
       </div>
     </section>

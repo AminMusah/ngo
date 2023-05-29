@@ -42,11 +42,13 @@
               <div
                 class="form-group text-center margin-top-30 col-lg-12 col-md-6 col-sm-6 col-xs-12"
               >
-                <button type="submit" class="theme-btn">Sign In</button>
+                <button type="submit" class="theme-btn col-md-4" v-if="loading">
+                  <MiniLoader />
+                </button>
+                <button type="submit" class="theme-btn" v-else>Sign In</button>
               </div>
             </div>
           </form>
-          <p v-if="error" class="error">{{ error }}</p>
         </div>
       </div>
     </div>
@@ -57,6 +59,7 @@
 
 <script>
 import { getAuth, signInWithEmailAndPassword } from "firebase/auth";
+import Swal from "sweetalert2";
 
 export default {
   data() {
@@ -64,23 +67,65 @@ export default {
       email: "",
       password: "",
       error: false,
+      loading: false,
+      isLoggedIn: false,
     };
   },
   methods: {
-    signIn() {
+    async signIn() {
+      this.loading = true;
       const auth = getAuth();
-      signInWithEmailAndPassword(auth, this.email, this.password)
+      await signInWithEmailAndPassword(auth, this.email, this.password)
         .then((userCredential) => {
           // Signed in
           const user = userCredential.user;
+          this.isLoggedIn = true;
+          this.$router.push("/admin");
           localStorage.setItem("user", JSON.stringify(user.uid));
-          localStorage.setItem("accessToken", JSON.stringify(accessToken));
+          localStorage.setItem("accessToken", JSON.stringify(user.accessToken));
+          localStorage.setItem("isLoggedIn", JSON.stringify(this.isLoggedIn));
+          this.loading = false;
+          const Toast = Swal.mixin({
+            toast: true,
+            position: "top-end",
+            showConfirmButton: false,
+            timer: 5000,
+            timerProgressBar: true,
+            didOpen: (toast) => {
+              toast.addEventListener("mouseenter", Swal.stopTimer);
+              toast.addEventListener("mouseleave", Swal.resumeTimer);
+            },
+          });
+
+          Toast.fire({
+            icon: "success",
+            title: "Signed in successfully",
+          });
           // ...
         })
         .catch((error) => {
+          console.log(error);
           const errorCode = error.code;
           const errorMessage = error.message;
           this.error = errorMessage.slice(10, 50);
+          this.isLoggedIn = false;
+          this.loading = false;
+          const Toast = Swal.mixin({
+            toast: true,
+            position: "top-end",
+            showConfirmButton: false,
+            timer: 5000,
+            timerProgressBar: true,
+            didOpen: (toast) => {
+              toast.addEventListener("mouseenter", Swal.stopTimer);
+              toast.addEventListener("mouseleave", Swal.resumeTimer);
+            },
+          });
+
+          Toast.fire({
+            icon: "error",
+            title: this.error || "An error occurred, try again.",
+          });
         });
     },
   },
