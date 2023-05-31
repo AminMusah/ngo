@@ -4,10 +4,12 @@
 
 <script>
 import { collection, getDocs, getFirestore } from "firebase/firestore";
-// import db from "../../plugins/firebase";
-const db = getFirestore();
+// import db from "~/plugins/firebase";
+// import firbase from "firebase";
 
-console.log(db);
+// const db = getFirestore();
+
+// console.log(db);
 export default {
   setup() {
     definePageMeta({
@@ -15,17 +17,15 @@ export default {
     });
   },
   methods: {
-    async getEvents() {
-      const querySnapshot = await collection(db, "events");
-
-      getDocs(querySnapshot).then((snapshot) => {
-        console.log(snapshot);
-      });
-
-      // querySnapshot.forEach((doc) => {
-      //   // doc.data() is never undefined for query doc snapshots
-      //   console.log(doc.id, " => ", doc.data());
-      // });
+    getEvents() {
+      // getFirestore
+      //   .collection("events")
+      //   .get()
+      //   .then((querySnapshot) => {
+      //     querySnapshot.forEach((doc) => {
+      //       console.log(doc);
+      //     });
+      //   });
     },
   },
   mounted() {

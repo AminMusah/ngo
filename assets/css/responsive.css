@@ -508,7 +508,9 @@
   }
 
   .main-slider .tp-caption {
-    display: none !important;
+    /* display: none !important; */
+    bottom: 25%;
+    width: 90%;
   }
 
   .main-slider .transparent-bg-layer-right,

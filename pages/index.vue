@@ -377,7 +377,7 @@
       <div class="outer-container">
         <div class="lined-title"><h2>Donation</h2></div>
 
-        <div class="row clearfix">
+        <div class="row clearfix carosel">
           <!--Default Cause Column-->
           <div
             class="default-cause-column col-md-4 col-sm-6 col-xs-12 wow fadeInLeft"
