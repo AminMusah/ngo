@@ -2486,7 +2486,7 @@ li {
   width: 100%;
   object-fit: cover;
   aspect-ratio: 2/2;
-  height: 65vh;
+  height: 120vh;
 }
 
 /*** 
@@ -5899,10 +5899,11 @@ li {
   background-color: #363636;
   background-repeat: no-repeat;
   background-size: cover;
-  background-position: center center;
+  background-position: center top;
   color: #ffffff;
   text-align: center;
-  background-image: url(assets/images/Homepage/Homepage1.jpg);
+  background-image: url(assets/images/Contact/652A6738-0FF7-4ACB-A420-47C8FF65C607.jpeg);
+  height: 65vh;
 }
 
 .page-title:before {
@@ -7186,6 +7187,8 @@ li {
   display: block;
   width: 100%;
   background: #ec1c33;
+  object-fit: cover;
+  aspect-ratio: 2/2;
 }
 
 .sidebar .insta-feeds .thumbs-outer .image-thumb .lightbox-image {
@@ -10016,7 +10019,7 @@ a:focus {
   background-color: #363636;
   background-repeat: no-repeat;
   background-size: cover;
-  background-position: center center;
+  background-position: center top;
   color: #ffffff;
   text-align: center;
   background-image: url(assets/images/Donate/68C44064-95E7-4D72-A41B-AF70D040590F.jpeg);
@@ -10096,10 +10099,10 @@ a:focus {
   background-color: #363636;
   background-repeat: no-repeat;
   background-size: cover;
-  background-position: center center;
+  background-position: center top;
   color: #ffffff;
   text-align: center;
-  background-image: url(assets/images/6677CE13-FF6D-45F0-BBB5-830E5A0829A9.jpeg);
+  background-image: url(assets/images/294228277_384900810376146_7284471715113305548_n.jpg);
   height: 65vh;
 }
 

@@ -302,7 +302,7 @@
                 </figure>
                 <div class="content">
                   <div class="membertitle">
-                    <h3>Coretta (CJ) Pruitt-</h3>
+                    <h3>Coretta (CJ) Pruitt</h3>
                     <div class="designation">Secretary and Board Member</div>
                   </div>
                 </div>

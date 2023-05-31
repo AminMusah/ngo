@@ -1,15 +1,11 @@
 <template>
   <div>
     <Header />
-    <section class="page-title">
+    <!-- <section class="page-title">
       <div class="auto-container">
         <h1>Moving Forward Together (MFT)</h1>
         <div class="content-style-one">
-          <!-- <div class="text">
-            Moving Forward Together (MFT) is committed to supporting,
-            <br />
-            uplifting and empowering ourselves and our communities!
-          </div> -->
+         
           <NuxtLink to="membership">
             <button type="button" class="theme-btn btn-style-one">
               Join Us
@@ -18,11 +14,10 @@
           </NuxtLink>
         </div>
       </div>
-    </section>
+    </section> -->
 
     <!--Main Slider-->
-    <!-- <section class="main-slider">
-      
+    <section class="main-slider">
       <div class="tp-banner-container">
         <div class="tp-banner">
           <ul>
@@ -40,12 +35,12 @@
                 data-bgposition="center bottom"
                 data-bgfit="cover"
                 data-bgrepeat="no-repeat"
-              /> -->
+              />
 
-    <!--Transparent layer Right-->
-    <!-- <div class="transparent-bg-layer-right"></div> -->
+              <!--Transparent layer Right-->
+              <!-- <div class="transparent-bg-layer-right"></div> -->
 
-    <!-- <div
+              <div
                 class="tp-caption sfb sfr tp-resizeme"
                 data-x="center"
                 data-hoffset="0"
@@ -60,9 +55,9 @@
                 data-endelementdelay="0.3"
                 data-endspeed="1200"
                 data-endeasing="Power4.easeIn"
-              > -->
-    <!--Content Style One-->
-    <!-- <div class="content-style-one">
+              >
+                <!--Content Style One-->
+                <div class="content-style-one">
                   <h3 class="dashed-text">
                     Moving Forward <br />Together (MFT)
                   </h3>
@@ -71,16 +66,19 @@
                     <br />
                     uplifting and empowering ourselves and our communities!
                   </div>
-                  <NuxtLInk to="membership" class="theme-btn btn-style-one"
-                    >Join Us
-                    <span class="sep-icon"
-                      ><i class="fa fa-angle-right"></i></span
-                  ></NuxtLInk>
+                  <NuxtLink to="membership">
+                    <button type="button" class="theme-btn btn-style-one">
+                      Join Us
+                      <span class="sep-icon"
+                        ><i class="fa fa-angle-right"></i
+                      ></span>
+                    </button>
+                  </NuxtLink>
                 </div>
               </div>
-            </li> -->
+            </li>
 
-    <!-- <li
+            <!-- <li
               data-transition="slidedown"
               data-slotamount="1"
               data-masterspeed="1000"
@@ -96,10 +94,10 @@
                 data-bgrepeat="no-repeat"
               /> -->
 
-    <!--Transparent layer Left-->
-    <!-- <div class="transparent-bg-layer-left"></div> -->
+            <!--Transparent layer Left-->
+            <!-- <div class="transparent-bg-layer-left"></div>
 
-    <!-- <div
+              <div
                 class="tp-caption sfb sft tp-resizeme"
                 data-x="left"
                 data-hoffset="180"
@@ -115,11 +113,11 @@
                 data-endspeed="1200"
                 data-endeasing="Power4.easeIn"
               > -->
-    <!--Square Box-->
-    <!-- <div class="square-box"></div>
+            <!--Square Box-->
+            <!-- <div class="square-box"></div>
               </div> -->
 
-    <!-- <div
+            <!-- <div
                 class="tp-caption sfb sfr tp-resizeme"
                 data-x="left"
                 data-hoffset="15"
@@ -139,9 +137,9 @@
                   We can’t do it alone without <br />your
                   <span class="theme_color">support</span>
                 </div>
-              </div>
+              </div> -->
 
-              <div
+            <!-- <div
                 class="tp-caption sfb sfl tp-resizeme"
                 data-x="left"
                 data-hoffset="15"
@@ -164,15 +162,15 @@
               </div>
             </li> -->
 
-    <!-- <li
+            <!-- <li
               data-transition="slidedown"
               data-slotamount="1"
               data-masterspeed="1000"
               data-thumb="images/main-slider/3.jpg"
               data-saveperformance="off"
               data-title="Awesome Title Here"
-            > -->
-    <!-- <img
+            >
+              <img
                 src="@/assets/images/main-slider/3.jpg"
                 alt=""
                 data-bgposition="center bottom"
@@ -180,10 +178,10 @@
                 data-bgrepeat="no-repeat"
               /> -->
 
-    <!--Transparent layer Right-->
-    <!-- <div class="transparent-bg-layer-right"></div> -->
-    <!-- 
-              <div
+            <!--Transparent layer Right-->
+            <!-- <div class="transparent-bg-layer-right"></div> -->
+
+            <!-- <div
                 class="tp-caption sfb sft tp-resizeme"
                 data-x="center"
                 data-hoffset="0"
@@ -205,9 +203,9 @@
                   >
                   <span class="theme_color">Around</span> <strong>Us</strong>
                 </div>
-              </div>
+              </div> -->
 
-              <div
+            <!-- <div
                 class="tp-caption sfb sfb tp-resizeme"
                 data-x="center"
                 data-hoffset="0"
@@ -228,9 +226,9 @@
                   projects and will<br />work directly with our Design and
                   Engineering team.
                 </div>
-              </div>
+              </div> -->
 
-              <div
+            <!-- <div
                 class="tp-caption sfb sfb tp-resizeme"
                 data-x="center"
                 data-hoffset="15"
@@ -252,12 +250,12 @@
                 ></a>
               </div>
             </li> -->
-    <!-- </ul>
+          </ul>
 
-          <div class="tp-bannertimer"></div>
+          <!-- <div class="tp-bannertimer"></div> -->
         </div>
       </div>
-    </section> -->
+    </section>
     <!-- <Slider /> -->
 
     <!--About Section-->

@@ -30,53 +30,53 @@
             <li class="dropdown">
               <a href="#">Home</a>
               <ul class="submenu">
-                <li><a href="index.html">Homepage One</a></li>
-                <li><a href="index-2.html">Homepage Two</a></li>
-                <li><a href="index-3.html">Homepage Three</a></li>
-                <li><a href="index-4.html">Homepage Four</a></li>
-                <li><a href="index-5.html">Homepage Five</a></li>
-                <li><a href="index-6.html">Homepage Six</a></li>
+                <li><a href="#">Homepage One</a></li>
+                <li><a href="#">Homepage Two</a></li>
+                <li><a href="#">Homepage Three</a></li>
+                <li><a href="#">Homepage Four</a></li>
+                <li><a href="#">Homepage Five</a></li>
+                <li><a href="#">Homepage Six</a></li>
               </ul>
             </li>
-            <li><a href="about-us.html">About Us</a></li>
+            <li><a href="#">About Us</a></li>
             <li class="dropdown">
               <a href="#">Pages</a>
               <ul class="submenu">
-                <li><a href="donation.html">Donation</a></li>
+                <li><a href="#">Donation</a></li>
                 <li class="dropdown">
                   <a href="#">Events</a>
                   <ul class="submenu">
-                    <li><a href="events.html">Events</a></li>
-                    <li><a href="events-single.html">Single Event</a></li>
+                    <li><a href="#">Events</a></li>
+                    <li><a href="#">Single Event</a></li>
                   </ul>
                 </li>
                 <li class="dropdown">
                   <a href="#">Causes</a>
-                  <ul class="submenu">
+                  <ul class="">
                     <li><a href="#">Causees Style One</a></li>
-                    <li><a href="causes-2.html">Causees Style Two</a></li>
+                    <li><a href="#">Causees Style Two</a></li>
                   </ul>
                 </li>
-                <li><a href="gallery-1.html">Gallery Style One</a></li>
-                <li><a href="gallery-2.html">Gallery Style Two</a></li>
-                <li><a href="error-page.html">404 Page</a></li>
+                <li><a href="#">Gallery Style One</a></li>
+                <li><a href="#">Gallery Style Two</a></li>
+                <li><a href="#">404 Page</a></li>
               </ul>
             </li>
             <li class="dropdown">
               <a href="#">Shop</a>
               <ul class="submenu">
-                <li><a href="shop.html">Shop</a></li>
-                <li><a href="shop-single.html">Shop Single</a></li>
+                <li><a href="#">Shop</a></li>
+                <li><a href="#">Shop Single</a></li>
               </ul>
             </li>
             <li class="dropdown current">
               <a href="#">Blog</a>
               <ul class="submenu">
-                <li><a href="blog.html">Our Blog</a></li>
-                <li><a href="blog-single.html">Blog Single</a></li>
+                <li><a href="#">Our Blog</a></li>
+                <li><a href="#">Blog Single</a></li>
               </ul>
             </li>
-            <li><a href="contact.html">Contact</a></li>
+            <li><a href="#">Contact</a></li>
           </ul>
         </div>
         <!-- /.Side-menu -->
@@ -132,20 +132,20 @@
                 <div class="inner-box">
                   <div class="post-info">
                     <h3>
-                      <a href="blog-single.html">Child Labor and Ghana</a>
+                      <a href="#">Juneteenth Celebration Workshop</a>
                     </h3>
                     <div class="meta">
-                      <img
+                      <!-- <img
                         class="author-thumb img-circle"
                         src="@/assets/images/resource/blog-thumb-1.jpg"
                         alt=""
-                      />Hasib Sharif . Tuesday, Feb 19, 2016
+                      />-->Chassidy Keys . Tuesday, Feb 19, 2023
                     </div>
                   </div>
                   <figure class="image-box">
-                    <a href="blog-single.html"
+                    <a href="#"
                       ><img
-                        src="@/assets/images/resource/blog-image-3.jpg"
+                        src="@/assets/images/295302058_568172274897195_6367048949004839852_n.jpg"
                         alt=""
                     /></a>
                   </figure>
@@ -159,9 +159,7 @@
                       agency structures the roles are pretty defined; you’ve got
                       your strategists, designers, creative teams etc.
                     </div>
-                    <a
-                      href="blog-single.html"
-                      class="theme-btn btn-style-two light"
+                    <a href="#" class="theme-btn btn-style-two light"
                       >Read More
                       <span class="sep-icon"
                         ><i class="fa fa-angle-right"></i></span
@@ -179,20 +177,20 @@
                 <div class="inner-box">
                   <div class="post-info">
                     <h3>
-                      <a href="blog-single.html">Techniques for Blog Design</a>
+                      <a href="blog-single.html">Paint and Sip Fundraiser</a>
                     </h3>
                     <div class="meta">
-                      <img
+                      <!-- <img
                         class="author-thumb img-circle"
                         src="@/assets/images/resource/blog-thumb-1.jpg"
                         alt=""
-                      />Hasib Sharif . Tuesday, Feb 19, 2016
+                      />-->Angela . Tuesday, Feb 19, 2016
                     </div>
                   </div>
                   <figure class="image-box">
-                    <a href="blog-single.html"
+                    <a href="#"
                       ><img
-                        src="@/assets/images/resource/blog-image-4.jpg"
+                        src="@/assets/images/294228277_384900810376146_7284471715113305548_n.jpg"
                         alt=""
                     /></a>
                   </figure>
@@ -206,9 +204,7 @@
                       agency structures the roles are pretty defined; you’ve got
                       your strategists, designers, creative teams etc.
                     </div>
-                    <a
-                      href="blog-single.html"
-                      class="theme-btn btn-style-two light"
+                    <a href="#" class="theme-btn btn-style-two light"
                       >Read More
                       <span class="sep-icon"
                         ><i class="fa fa-angle-right"></i></span
@@ -226,21 +222,19 @@
                 <div class="inner-box">
                   <div class="post-info">
                     <h3>
-                      <a href="blog-single.html"
-                        >Child Labor and Supply Chains</a
-                      >
+                      <a href="#">Popcorn Fundraiser</a>
                     </h3>
                     <div class="meta">
-                      <img
+                      <!-- <img
                         class="author-thumb img-circle"
-                        src="@/assets/images/resource/blog-thumb-1.jpg"
+                        src="@/assets/images/82245ACC-3672-4A0B-94EB-B8661C72DD53.jpeg"
                         alt=""
-                      />Hasib Sharif . Tuesday, Feb 19, 2016
+                      />-->Coretta (CJ) Pruitt. Tuesday, Feb 19, 2023
                     </div>
                   </div>
                   <figure class="image-box">
                     <img
-                      src="@/assets/images/resource/blog-image-5.jpg"
+                      src="@/assets/images/295847573_121855040565524_803993096710324410_n.jpg"
                       alt=""
                     /><a
                       class="lightbox-image video-link"
@@ -258,9 +252,7 @@
                       agency structures the roles are pretty defined; you’ve got
                       your strategists, designers, creative teams etc.
                     </div>
-                    <a
-                      href="blog-single.html"
-                      class="theme-btn btn-style-two light"
+                    <a href="#" class="theme-btn btn-style-two light"
                       >Read More
                       <span class="sep-icon"
                         ><i class="fa fa-angle-right"></i></span
@@ -367,12 +359,12 @@
                   <figure class="post-thumb">
                     <a href="#"
                       ><img
-                        src="@/assets/images/resource/post-thumb-2.jpg"
+                        src="@/assets/images/82245ACC-3672-4A0B-94EB-B8661C72DD53.jpeg"
                         alt=""
                     /></a>
                   </figure>
-                  <h4><a href="#">Integer Suscipit Sit Amet</a></h4>
-                  <div class="post-info">SEP 29, 2015</div>
+                  <h4><a href="#">Back to School BBQ Fundraiser</a></h4>
+                  <div class="post-info">SEP 29, 2023</div>
                 </article>
 
                 <!-- <article class="post">
@@ -478,60 +470,60 @@
                 <div class="thumbs-outer clearfix">
                   <figure class="image-thumb">
                     <img
-                      src="@/assets/images/gallery/image-thumb-7.jpg"
+                      src="@/assets/images/8A750808-86F3-4499-AEB0-75F18BD073BF.jpeg"
                       alt=""
                     /><a
                       class="lightbox-image"
-                      href="images/resource/products/image-1.jpg"
+                      href="#"
                       title="Image title here"
                       ><span class="icon flaticon-cross"></span
                     ></a>
                   </figure>
                   <figure class="image-thumb">
                     <img
-                      src="@/assets/images/gallery/image-thumb-8.jpg"
+                      src="@/assets/images/8DBDAB68-DE19-4762-870A-56F7A1E099C9.jpeg"
                       alt=""
                     /><a
                       class="lightbox-image"
-                      href="images/resource/products/image-2.jpg"
+                      href="#"
                       title="Image title here"
                       ><span class="icon flaticon-cross"></span
                     ></a>
                   </figure>
                   <figure class="image-thumb">
                     <img
-                      src="@/assets/images/gallery/image-thumb-9.jpg"
+                      src="@/assets/images/323203487_211383608001224_1812429780663511982_n.jpg"
                       alt=""
                     /><a
                       class="lightbox-image"
-                      href="images/resource/products/image-3.jpg"
+                      href="#"
                       title="Image title here"
                       ><span class="icon flaticon-cross"></span
                     ></a>
                   </figure>
                   <figure class="image-thumb">
                     <img
-                      src="@/assets/images/gallery/image-thumb-10.jpg"
+                      src="@/assets/images/69C38D41-5AC2-4C70-8507-565AF7CEE185.jpeg"
                       alt=""
                     /><a
                       class="lightbox-image"
-                      href="images/resource/products/image-4.jpg"
+                      href="#"
                       title="Image title here"
                       ><span class="icon flaticon-cross"></span
                     ></a>
                   </figure>
                   <figure class="image-thumb">
                     <img
-                      src="@/assets/images/gallery/image-thumb-11.jpg"
-                      alt=""
+                      src="@/assets/images/82245ACC-3672-4A0B-94EB-B8661C72DD53.jpeg"
+                      alt="asset"
                     /><a
                       class="lightbox-image"
-                      href="images/resource/products/image-5.jpg"
+                      href="#"
                       title="Image title here"
                       ><span class="icon flaticon-cross"></span
                     ></a>
                   </figure>
-                  <figure class="image-thumb">
+                  <!-- <figure class="image-thumb">
                     <img
                       src="@/assets/images/gallery/image-thumb-12.jpg"
                       alt=""
@@ -574,7 +566,7 @@
                       title="Image title here"
                       ><span class="icon flaticon-cross"></span
                     ></a>
-                  </figure>
+                  </figure> -->
                 </div>
               </div>
             </aside>
