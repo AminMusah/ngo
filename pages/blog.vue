@@ -151,13 +151,13 @@
                   </figure>
                   <div class="content-box">
                     <div class="post-text">
-                      A wild misconception of social media experts is that we
-                      spend most of our time sitting around watching YouTube
-                      videos. However, my friends, I’m sorry to .break this to
-                      you, you’ve been fooled! In a way, we’re more like
-                      experience designers. If you take a look at some creative
-                      agency structures the roles are pretty defined; you’ve got
-                      your strategists, designers, creative teams etc.
+                      Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                      Sed euismod purus vitae ligula aliquam, sit amet fringilla
+                      metus dapibus. Vivamus efficitur massa ut ante luctus, vel
+                      fringilla tellus imperdiet. Aenean facilisis bibendum
+                      tristique. Nulla facilisi. Aliquam erat volutpat. Fusce
+                      varius tempor metus, eu placerat sem pulvinar id. Integer
+                      lobortis felis nec malesuada eleifend.
                     </div>
                     <a href="#" class="theme-btn btn-style-two light"
                       >Read More
@@ -196,13 +196,13 @@
                   </figure>
                   <div class="content-box">
                     <div class="post-text">
-                      A wild misconception of social media experts is that we
-                      spend most of our time sitting around watching YouTube
-                      videos. However, my friends, I’m sorry to .break this to
-                      you, you’ve been fooled! In a way, we’re more like
-                      experience designers. If you take a look at some creative
-                      agency structures the roles are pretty defined; you’ve got
-                      your strategists, designers, creative teams etc.
+                      Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                      Sed euismod purus vitae ligula aliquam, sit amet fringilla
+                      metus dapibus. Vivamus efficitur massa ut ante luctus, vel
+                      fringilla tellus imperdiet. Aenean facilisis bibendum
+                      tristique. Nulla facilisi. Aliquam erat volutpat. Fusce
+                      varius tempor metus, eu placerat sem pulvinar id. Integer
+                      lobortis felis nec malesuada eleifend.
                     </div>
                     <a href="#" class="theme-btn btn-style-two light"
                       >Read More
@@ -244,13 +244,13 @@
                   </figure>
                   <div class="content-box">
                     <div class="post-text">
-                      A wild misconception of social media experts is that we
-                      spend most of our time sitting around watching YouTube
-                      videos. However, my friends, I’m sorry to .break this to
-                      you, you’ve been fooled! In a way, we’re more like
-                      experience designers. If you take a look at some creative
-                      agency structures the roles are pretty defined; you’ve got
-                      your strategists, designers, creative teams etc.
+                      Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                      Sed euismod purus vitae ligula aliquam, sit amet fringilla
+                      metus dapibus. Vivamus efficitur massa ut ante luctus, vel
+                      fringilla tellus imperdiet. Aenean facilisis bibendum
+                      tristique. Nulla facilisi. Aliquam erat volutpat. Fusce
+                      varius tempor metus, eu placerat sem pulvinar id. Integer
+                      lobortis felis nec malesuada eleifend.
                     </div>
                     <a href="#" class="theme-btn btn-style-two light"
                       >Read More
