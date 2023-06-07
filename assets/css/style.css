@@ -3045,16 +3045,17 @@ li {
   width: 100%;
   object-fit: cover;
   aspect-ratio: 2/2;
+  opacity: 0.6;
 }
 
-.default-cause-column .inner-box .image-box .overlay {
+/* .default-cause-column .inner-box .image-box .overlay {
   position: absolute;
   left: 0px;
   top: 0px;
   width: 100%;
   height: 100%;
   background: rgba(0, 0, 0, 0.6);
-}
+} */
 
 .style-two .default-cause-column .inner-box .image-box .overlay {
   background: rgba(0, 0, 0, 0.6);
@@ -3589,7 +3590,7 @@ li {
   background-position: center center;
   background-attachment: fixed;
   background-size: cover;
-  background-image: url(assets/images/294228277_384900810376146_7284471715113305548_n.jpg);
+  background-image: url(@/assets/images/Homepage/Homepage3.jpeg);
 }
 
 .testimonials-section:before {
@@ -5153,7 +5154,7 @@ li {
 .teammember img {
   width: 100%;
   object-fit: cover;
-  aspect-ratio: 2/2;
+  aspect-ratio: 2/3;
 }
 
 .team-member .inner-box {
@@ -10183,6 +10184,10 @@ a:focus {
 .error {
   color: red;
   text-align: center;
+}
+
+.donate-container {
+  margin: 40px;
 }
 
 @media only screen and (max-width: 800px) {

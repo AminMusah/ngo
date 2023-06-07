@@ -321,7 +321,7 @@
                 </figure>
                 <div class="content">
                   <div class="membertitle">
-                    <h3>Angela</h3>
+                    <h3>Angela Smith</h3>
                     <div class="designation">Treasurer and Board Member</div>
                   </div>
                 </div>

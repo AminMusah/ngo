@@ -17,10 +17,22 @@
       <div class="centered-title">
         <h2>Donate Now</h2>
         <div class="desc-text">
-          perspiciatis unde omnis iste natus error sit voluptatem accusantium
-          doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo
-          inventore veritatis et quasi architecto.
+          MFT strives to partener and provide resources to other non profit
+          organizations aligned with improving the comminuty and supporting self
+          sufficiency. We appreciate any support to further our efforts.
         </div>
+      </div>
+      <div class="centered-title">
+        <a
+          href="https://gofund.me/341c0bc5"
+          target="_blank"
+          class="donate-container"
+        >
+          <button type="button" class="theme-btn btn-style-two light">
+            Donate
+            <span class="sep-icon"><i class="fa fa-angle-right"></i></span>
+          </button>
+        </a>
       </div>
 
       <div
@@ -73,10 +85,12 @@
               />
             </div>
 
-            <button type="button" class="theme-btn btn-style-two light">
-              Donate
-              <span class="sep-icon"><i class="fa fa-angle-right"></i></span>
-            </button>
+            <a href="https://gofund.me/341c0bc5" target="_blank">
+              <button type="button" class="theme-btn btn-style-two light">
+                Donate
+                <span class="sep-icon"><i class="fa fa-angle-right"></i></span>
+              </button>
+            </a>
           </div>
         </form>
       </div>
@@ -125,7 +139,7 @@
                 <option>Cause</option>
                 <option>Education</option>
                 <option>Food</option>
-                <option>African Children</option>
+                <!-- <option>African Children</option> -->
               </select>
             </div>
             <div class="form-group col-lg-12 col-md-12 col-sm-12 col-xs-12">

@@ -39,9 +39,6 @@
                   <NuxtLink to="membership">Membership</NuxtLink>
                 </li>
                 <li class="dropdown">
-                  <NuxtLink to="blog">Blog</NuxtLink>
-                </li>
-                <li class="dropdown">
                   <NuxtLink to="contact">Contact</NuxtLink>
                 </li>
               </ul>

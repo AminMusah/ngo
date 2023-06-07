@@ -4,10 +4,6 @@
   <section class="about-page-title">
     <div class="auto-container">
       <!-- <h1>Membership</h1> -->
-      <ul class="bread-crumb clearfix">
-        <li><NuxtLink to="/">Home</NuxtLink></li>
-        <li class="active">Membership</li>
-      </ul>
     </div>
   </section>
 

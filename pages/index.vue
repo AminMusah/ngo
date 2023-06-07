@@ -297,7 +297,7 @@
                     <div class="inner">
                       <figure class="image-box">
                         <img
-                          src="@/assets/images/295907707_2161151860711817_4407419216341760823_n.jpg"
+                          src="@/assets/images/Homepage/Homepage4.png"
                           alt=""
                         />
                       </figure>
@@ -379,13 +379,12 @@
 
         <div class="row clearfix carosel">
           <!--Default Cause Column-->
-          <div
+          <!-- <div
             class="default-cause-column col-md-4 col-sm-6 col-xs-12 wow fadeInLeft"
             data-wow-delay="0ms"
             data-wow-duration="1500ms"
           >
             <div class="inner-box hvr-float">
-              <!--Image Box-->
               <figure class="image-box">
                 <img
                   src="@/assets/images/8DBDAB68-DE19-4762-870A-56F7A1E099C9.jpeg"
@@ -398,9 +397,7 @@
                   >
                 </h3>
               </figure>
-              <!--Lower Content-->
               <div class="lower-content">
-                <!--Donation Scale-->
                 <div class="donation-scale">
                   <div class="scale-header clearfix">
                     <div class="pull-left">Raised</div>
@@ -418,7 +415,6 @@
                   </div>
                 </div>
                 <div class="text-center">
-                  <!--Defult Text-->
                   <div class="default-text">
                     Please contact us or reach out to member for details
                   </div>
@@ -433,7 +429,7 @@
                 </div>
               </div>
             </div>
-          </div>
+          </div> -->
 
           <!--Default Cause Column-->
           <div
@@ -453,7 +449,7 @@
               <!--Lower Content-->
               <div class="lower-content">
                 <!--Donation Scale-->
-                <div class="donation-scale">
+                <!-- <div class="donation-scale">
                   <div class="scale-header clearfix">
                     <div class="pull-left">Raised</div>
                     <div class="pull-right">Goal</div>
@@ -468,7 +464,7 @@
                     <div class="pull-left">$3,400</div>
                     <div class="pull-right">$5,000</div>
                   </div>
-                </div>
+                </div> -->
                 <div class="text-center">
                   <!--Defult Text-->
                   <div class="default-text">
@@ -505,7 +501,7 @@
               <!--Lower Content-->
               <div class="lower-content">
                 <!--Donation Scale-->
-                <div class="donation-scale">
+                <!-- <div class="donation-scale">
                   <div class="scale-header clearfix">
                     <div class="pull-left">Raised</div>
                     <div class="pull-right">Goal</div>
@@ -520,7 +516,7 @@
                     <div class="pull-left">$3,400</div>
                     <div class="pull-right">$5,000</div>
                   </div>
-                </div>
+                </div> -->
                 <div class="text-center">
                   <!--Defult Text-->
                   <div class="default-text">
@@ -564,39 +560,35 @@
             >
               <div class="inner-box clearfix">
                 <div class="post-date">
-                  <span class="day"> 13th</span
-                  ><span class="month">August </span>
+                  <span class="day"> 8th</span><span class="month">June </span>
                 </div>
                 <figure class="image-box">
-                  <img
-                    src="@/assets/images/82245ACC-3672-4A0B-94EB-B8661C72DD53.jpeg"
-                    alt=""
-                  />
+                  <img src="@/assets/images/Events/popcorn.jpeg" alt="" />
                 </figure>
                 <div class="content-box">
                   <h3>
-                    <a href="#"> Back to School BBQ Fundraiser</a
+                    <a href="#"> Popcorn fundraiser</a
                     ><span class="line"></span>
                   </h3>
                   <div class="desc-text">
                     Please contact us or reach out to member for details
                   </div>
                   <ul class="info">
-                    <li>
+                    <!-- <li>
                       <span class="icon flaticon-time"></span> Friday, 9 am - 12
                       pm
-                    </li>
-                    <li>
+                    </li> -->
+                    <!-- <li>
                       <span class="icon flaticon-tool-2"></span> Juvenile
                       Auditorium, NJ
-                    </li>
+                    </li> -->
                   </ul>
                   <div class="link-box">
-                    <a href="#" class="theme-btn btn-style-two"
+                    <!-- <a href="#" class="theme-btn btn-style-two"
                       >Register
                       <span class="sep-icon"
                         ><i class="fa fa-angle-right"></i></span
-                    ></a>
+                    ></a> -->
                   </div>
                 </div>
               </div>
@@ -610,37 +602,36 @@
             >
               <div class="inner-box clearfix">
                 <div class="post-date">
-                  <span class="day">1st</span><span class="month">June </span>
+                  <span class="day">13th</span
+                  ><span class="month"> August </span>
                 </div>
                 <figure class="image-box">
-                  <img
-                    src="@/assets/images/295302058_568172274897195_6367048949004839852_n.jpg"
-                    alt=""
-                  />
+                  <img src="@/assets/images/Events/backtoschool.jpeg" alt="" />
                 </figure>
                 <div class="content-box">
                   <h3>
-                    <a href="#">Popcorn Fundraiser</a><span class="line"></span>
+                    <a href="#">Back to School BBQ Fundraiser</a
+                    ><span class="line"></span>
                   </h3>
                   <div class="desc-text">
                     Please contact us or reach out to member for details
                   </div>
                   <ul class="info">
-                    <li>
+                    <!-- <li>
                       <span class="icon flaticon-time"></span> Friday, 9 am - 12
                       pm
                     </li>
                     <li>
                       <span class="icon flaticon-tool-2"></span> Juvenile
                       Auditorium, NJ
-                    </li>
+                    </li> -->
                   </ul>
                   <div class="link-box">
-                    <a href="#" class="theme-btn btn-style-two"
+                    <!-- <a href="#" class="theme-btn btn-style-two"
                       >Register
                       <span class="sep-icon"
                         ><i class="fa fa-angle-right"></i></span
-                    ></a>
+                    ></a> -->
                   </div>
                 </div>
               </div>
@@ -650,8 +641,10 @@
           <!--Column-->
           <div class="column">
             <!--Event Post Style Two-->
+
+            <!--Event Post Style One-->
             <div
-              class="event-post post-style-two wow fadeInRight"
+              class="event-post post-style-one wow fadeInUp"
               data-wow-delay="0ms"
               data-wow-duration="1500ms"
             >
@@ -660,40 +653,26 @@
                   <span class="day">18th</span><span class="month">June </span>
                 </div>
                 <figure class="image-box">
-                  <img
-                    src="@/assets/images/295847573_121855040565524_803993096710324410_n.jpg"
-                    alt=""
-                  />
+                  <img src="@/assets/images/Events/junteenth.jpeg" alt="" />
                 </figure>
-                <div class="overlay"></div>
-
                 <div class="content-box">
                   <h3>
                     <a href="#">Juneteenth Celebration Workshop</a
                     ><span class="line"></span>
                   </h3>
-                  <ul class="info clearfix">
-                    <li>
+                  <ul class="info">
+                    <!-- <li>
                       <span class="icon flaticon-time"></span> Friday, 9 am - 12
                       pm
-                    </li>
-                    <li>
+                    </li> -->
+                    <!-- <li>
                       <span class="icon flaticon-tool-2"></span> Juvenile
                       Auditorium, NJ
-                    </li>
+                    </li> -->
                   </ul>
-                  <div class="link-box">
-                    <a href="#" class="theme-btn btn-style-two"
-                      >Register
-                      <span class="sep-icon"
-                        ><i class="fa fa-angle-right"></i></span
-                    ></a>
-                  </div>
                 </div>
               </div>
             </div>
-
-            <!--Event Post Style One-->
             <div
               class="event-post post-style-one wow fadeInUp"
               data-wow-delay="0ms"
@@ -715,14 +694,14 @@
                     ><span class="line"></span>
                   </h3>
                   <ul class="info">
-                    <li>
+                    <!-- <li>
                       <span class="icon flaticon-time"></span> Friday, 9 am - 12
                       pm
-                    </li>
-                    <li>
+                    </li> -->
+                    <!-- <li>
                       <span class="icon flaticon-tool-2"></span> Juvenile
                       Auditorium, NJ
-                    </li>
+                    </li> -->
                   </ul>
                 </div>
               </div>
@@ -733,6 +712,76 @@
         <div class="text-center padd-top-60 more">
           <NuxtLink to="events" class="theme-btn btn-style-two light"
             >More <span class="sep-icon"><i class="fa fa-angle-right"></i></span
+          ></NuxtLink>
+        </div>
+      </div>
+    </section>
+
+    <section class="recent-causes-section dark-layout">
+      <div class="outer-container">
+        <div class="lined-title"><h2>Past events</h2></div>
+
+        <div class="row clearfix carosel">
+          <!--Default Cause Column-->
+          <div
+            class="default-cause-column col-md-4 col-sm-6 col-xs-12 wow fadeInLeft"
+            data-wow-delay="300ms"
+            data-wow-duration="1500ms"
+          >
+            <div class="inner-box hvr-float">
+              <!--Image Box-->
+              <figure class="image-box">
+                <img
+                  src="@/assets/images/Events/PastEventGallery/2021-12.jpeg"
+                  alt=""
+                /><a href="#" class="overlay"></a>
+                <h3></h3>
+              </figure>
+            </div>
+          </div>
+
+          <!--Default Cause Column-->
+          <div
+            class="default-cause-column col-md-4 col-sm-6 col-xs-12 wow fadeInLeft"
+            data-wow-delay="600ms"
+            data-wow-duration="1500ms"
+          >
+            <div class="inner-box hvr-float">
+              <!--Image Box-->
+              <figure class="image-box">
+                <img
+                  src="@/assets/images/Events/PastEventGallery/2022-0jpeg.png"
+                  alt=""
+                /><a href="#" class="overlay"></a>
+                <h3></h3>
+              </figure>
+              <!--Lower Content-->
+            </div>
+          </div>
+
+          <div
+            class="default-cause-column col-md-4 col-sm-6 col-xs-12 wow fadeInLeft"
+            data-wow-delay="600ms"
+            data-wow-duration="1500ms"
+          >
+            <div class="inner-box hvr-float">
+              <!--Image Box-->
+              <figure class="image-box">
+                <img
+                  src="@/assets/images/Events/PastEventGallery/202206.jpeg"
+                  alt=""
+                /><a href="#" class="overlay"></a>
+                <h3></h3>
+              </figure>
+              <!--Lower Content-->
+            </div>
+          </div>
+        </div>
+
+        <div class="text-center view-more">
+          <NuxtLink to="events" class="theme-btn btn-style-two light"
+            >View All
+            <span class="sep-icon"><i class="fa fa-angle-right"></i></span
           ></NuxtLink>
         </div>
       </div>
