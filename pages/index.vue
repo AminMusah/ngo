@@ -30,7 +30,7 @@
               data-title="Awesome Title Here"
             >
               <img
-                src="@/assets/images/Homepage/Homepage1.jpg"
+                src="@/assets/images/Homepage/HomePage1.jpg"
                 alt=""
                 data-bgposition="center bottom"
                 data-bgfit="cover"
@@ -297,7 +297,7 @@
                     <div class="inner">
                       <figure class="image-box">
                         <img
-                          src="@/assets/images/Homepage/Homepage4.png"
+                          src="@/assets/images/Homepage/HomePage4.png"
                           alt=""
                         />
                       </figure>
@@ -783,6 +783,129 @@
             >View All
             <span class="sep-icon"><i class="fa fa-angle-right"></i></span
           ></NuxtLink>
+        </div>
+      </div>
+    </section>
+
+    <!--Testimonials Section-->
+    <section class="testimonials-section">
+      <div class="slider-outer">
+        <div class="testimonial-carousel">
+          <!--Slide Item-->
+          <div class="slide-item">
+            <div class="slide-content">
+              <div class="upper-info">
+                <figure class="img-circle author-thumb">
+                  <img
+                    class="img-circle"
+                    src="@/assets/images/resource/testimonial-thumb-1.jpg"
+                    alt=""
+                  />
+                </figure>
+                <h4>Hasib Sharif</h4>
+                <div class="designation">CEO, KBD</div>
+              </div>
+              <div class="text">
+                enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut
+                fugit, sed quia consequuntur magni dolores eos qui ratione
+                voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
+                ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia
+                non numquam eius modi tempora incidunt ut labore et dolore
+                magnam aliquam quaerat voluptatem.
+              </div>
+
+              <div class="lower-info">
+                <div class="signature">Hasib Sharif</div>
+              </div>
+            </div>
+          </div>
+
+          <!--Slide Item-->
+          <div class="slide-item">
+            <div class="slide-content">
+              <div class="upper-info">
+                <figure class="img-circle author-thumb">
+                  <img
+                    class="img-circle"
+                    src="@/assets/images/resource/testimonial-thumb-1.jpg"
+                    alt=""
+                  />
+                </figure>
+                <h4>Arsalan</h4>
+                <div class="designation">CEO, KBD</div>
+              </div>
+              <div class="text">
+                enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut
+                fugit, sed quia consequuntur magni dolores eos qui ratione
+                voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
+                ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia
+                non numquam eius modi tempora incidunt ut labore et dolore
+                magnam aliquam quaerat voluptatem.
+              </div>
+
+              <div class="lower-info">
+                <div class="signature">Arsalan</div>
+              </div>
+            </div>
+          </div>
+
+          <!--Slide Item-->
+          <div class="slide-item">
+            <div class="slide-content">
+              <div class="upper-info">
+                <figure class="img-circle author-thumb">
+                  <img
+                    class="img-circle"
+                    src="@/assets/images/resource/testimonial-thumb-1.jpg"
+                    alt=""
+                  />
+                </figure>
+                <h4>John Flick</h4>
+                <div class="designation">SEO, KBD</div>
+              </div>
+              <div class="text">
+                enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut
+                fugit, sed quia consequuntur magni dolores eos qui ratione
+                voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
+                ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia
+                non numquam eius modi tempora incidunt ut labore et dolore
+                magnam aliquam quaerat voluptatem.
+              </div>
+
+              <div class="lower-info">
+                <div class="signature">John Flick</div>
+              </div>
+            </div>
+          </div>
+
+          <!--Slide Item-->
+          <div class="slide-item">
+            <div class="slide-content">
+              <div class="upper-info">
+                <figure class="img-circle author-thumb">
+                  <img
+                    class="img-circle"
+                    src="@/assets/images/resource/testimonial-thumb-1.jpg"
+                    alt=""
+                  />
+                </figure>
+                <h4>Hasib Sharif</h4>
+                <div class="designation">CEO, KBD</div>
+              </div>
+              <div class="text">
+                enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut
+                fugit, sed quia consequuntur magni dolores eos qui ratione
+                voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
+                ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia
+                non numquam eius modi tempora incidunt ut labore et dolore
+                magnam aliquam quaerat voluptatem.
+              </div>
+
+              <div class="lower-info">
+                <div class="signature">Hasib</div>
+              </div>
+            </div>
+          </div>
         </div>
       </div>
     </section>

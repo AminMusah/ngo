@@ -100,7 +100,7 @@
             <div class="footer-widget instagram-widget">
               <div class="thumbs-outer clearfix">
                 <figure class="image-thumb">
-                  <img src="@/assets/images/Homepage/Homepage3.jpeg" alt="" /><a
+                  <img src="@/assets/images/Homepage/HomePage3.jpeg" alt="" /><a
                     href="https://www.instagram.com/movingforwardtogether_/"
                     class="lightbox-image"
                     title="Image title here"
