@@ -440,10 +440,10 @@
             <div class="inner-box hvr-float">
               <!--Image Box-->
               <figure class="image-box">
-                <img
-                  src="@/assets/images/295302058_568172274897195_6367048949004839852_n.jpg"
-                  alt=""
-                /><a href="#" class="overlay"></a>
+                <img src="@/assets/images/Events/popcorn.jpeg" alt="" /><a
+                  href="#"
+                  class="overlay"
+                ></a>
                 <h3><a href="#">Popcorn Fundraiser </a></h3>
               </figure>
               <!--Lower Content-->
@@ -492,10 +492,10 @@
             <div class="inner-box hvr-float">
               <!--Image Box-->
               <figure class="image-box">
-                <img
-                  src="@/assets/images/295847573_121855040565524_803993096710324410_n.jpg"
-                  alt=""
-                /><a href="#" class="overlay"></a>
+                <img src="@/assets/images/Events/junteenth.jpeg" alt="" /><a
+                  href="#"
+                  class="overlay"
+                ></a>
                 <h3><a href="#">Juneteenth Celebration Workshop</a></h3>
               </figure>
               <!--Lower Content-->
