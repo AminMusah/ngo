@@ -30,7 +30,7 @@
               data-title="Awesome Title Here"
             >
               <img
-                src="@/assets/images/Homepage/HomePage1.jpg"
+                src="@/assets/images/Homepage/Homepage1.jpg"
                 alt=""
                 data-bgposition="center bottom"
                 data-bgfit="cover"
