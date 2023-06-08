@@ -3040,12 +3040,16 @@ li {
   position: relative;
 }
 
+.past-event-image {
+  width: 300px;
+  opacity: 0.6;
+}
+
 .default-cause-column .inner-box .image-box img {
   display: block;
   width: 100%;
   object-fit: cover;
   aspect-ratio: 2/2;
-  opacity: 0.6;
 }
 
 /* .default-cause-column .inner-box .image-box .overlay {
@@ -10193,6 +10197,10 @@ a:focus {
 @media only screen and (max-width: 800px) {
   .auth-container {
     width: 80%;
+  }
+
+  .testimonials-section {
+    display: none;
   }
 }
 

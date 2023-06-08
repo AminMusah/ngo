@@ -32,9 +32,6 @@
                 <li class="dropdown">
                   <NuxtLink to="donation">Donation</NuxtLink>
                 </li>
-                <!-- <li class="dropdown">
-                  <NuxtLink to="giveback">Give Back</NuxtLink>
-                </li> -->
                 <li class="dropdown">
                   <NuxtLink to="membership">Membership</NuxtLink>
                 </li>
@@ -68,15 +65,11 @@
       <li class="">
         <NuxtLink to="donation">Donation</NuxtLink>
       </li>
-      <li class="">
-        <NuxtLink to="giveback">Give Back</NuxtLink>
-      </li>
+
       <li class="">
         <NuxtLink to="membership">Membership</NuxtLink>
       </li>
-      <li class="">
-        <NuxtLink to="blog">Blog</NuxtLink>
-      </li>
+
       <li class="">
         <NuxtLink to="contact">Contact</NuxtLink>
       </li>

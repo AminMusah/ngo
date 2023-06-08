@@ -492,11 +492,11 @@
             <div class="inner-box hvr-float">
               <!--Image Box-->
               <figure class="image-box">
-                <img src="@/assets/images/Events/junteenth.jpeg" alt="" /><a
+                <img src="@/assets/images/Events/backtoschool.jpeg" alt="" /><a
                   href="#"
                   class="overlay"
                 ></a>
-                <h3><a href="#">Juneteenth Celebration Workshop</a></h3>
+                <h3><a href="#">Back to School BBQ Fundraiser</a></h3>
               </figure>
               <!--Lower Content-->
               <div class="lower-content">
@@ -730,7 +730,7 @@
           >
             <div class="inner-box hvr-float">
               <!--Image Box-->
-              <figure class="image-box">
+              <figure class="image-box past-event-image">
                 <img
                   src="@/assets/images/Events/PastEventGallery/2021-12.jpeg"
                   alt=""
@@ -748,7 +748,7 @@
           >
             <div class="inner-box hvr-float">
               <!--Image Box-->
-              <figure class="image-box">
+              <figure class="image-box past-event-image">
                 <img
                   src="@/assets/images/Events/PastEventGallery/2022-0jpeg.png"
                   alt=""
@@ -766,7 +766,7 @@
           >
             <div class="inner-box hvr-float">
               <!--Image Box-->
-              <figure class="image-box">
+              <figure class="image-box past-event-image">
                 <img
                   src="@/assets/images/Events/PastEventGallery/202206.jpeg"
                   alt=""

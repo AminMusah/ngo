@@ -289,9 +289,227 @@
     </div>
   </section>
 
+  <section class="team-section">
+    <div class="outer-container">
+      <div class="lined-title"><h2>Past Events</h2></div>
+    </div>
+
+    <div class="carousel-outer">
+      <div class="outer-container">
+        <!--Team Carousel-->
+        <div class="team-carousel">
+          <!--Team Member-->
+          <div class="teammember">
+            <div class="innerbox">
+              <div class="imagebox">
+                <figure class="img">
+                  <img
+                    src="@/assets/images/Events/PastEventGallery/202206.jpeg"
+                    alt=""
+                  />
+                </figure>
+                <div class="content">
+                  <div class="membertitle">
+                    <br />
+                    <div class="designation">
+                      Supporting the opening of a local restaurant in Chicago,
+                      IL
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <!--Team Member-->
+          <div class="teammember">
+            <div class="innerbox">
+              <div class="imagebox">
+                <figure class="img">
+                  <img
+                    src="@/assets/images/Events/PastEventGallery/2021-12.jpeg"
+                    alt=""
+                  />
+                </figure>
+                <div class="content">
+                  <div class="membertitle">
+                    <br />
+                    <div class="designation">
+                      MFT members travel to Accra, Ghana
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <!--Team Member-->
+          <div class="teammember">
+            <div class="innerbox">
+              <div class="imagebox">
+                <figure class="img">
+                  <img
+                    src="@/assets/images/Events/PastEventGallery/2022-0jpeg.png"
+                    alt=""
+                  />
+                </figure>
+                <div class="content">
+                  <div class="membertitle">
+                    <br />
+                    <div class="designation">
+                      Supporting the Bud Biliken 365 Youth Scholarship Gala
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <!--Team Member-->
+          <div class="teammember">
+            <div class="innerbox">
+              <div class="imagebox">
+                <figure class="img">
+                  <img
+                    src="@/assets/images/Events/PastEventGallery/2022-07.jpeg"
+                    alt=""
+                  />
+                </figure>
+                <div class="content">
+                  <div class="membertitle">
+                    <br />
+                    <div class="designation">
+                      Promoting Moving Forward Together at Black Women’s Expo
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <!--Team Member-->
+          <div class="teammember">
+            <div class="innerbox">
+              <div class="imagebox">
+                <figure class="img">
+                  <img
+                    src="@/assets/images/Events/PastEventGallery/2022-12.jpeg "
+                    alt=""
+                  />
+                </figure>
+                <div class="content">
+                  <div class="membertitle">
+                    <br />
+                    <div class="designation">
+                      Giving out gifts to the family of 7 we adopted
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <!--Team Member-->
+          <div class="teammember">
+            <div class="innerbox">
+              <div class="imagebox">
+                <figure class="img">
+                  <img
+                    src="@/assets/images/Events/PastEventGallery/2022-12(1).jpeg "
+                    alt=""
+                  />
+                </figure>
+                <div class="content">
+                  <div class="membertitle">
+                    <br />
+                    <div class="designation">
+                      Donating gift bags of toiletries, wellness products and
+                      other necessities to women’s shelter
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="teammember">
+            <div class="innerbox">
+              <div class="imagebox">
+                <figure class="img">
+                  <img
+                    src="@/assets/images/Events/PastEventGallery/2022-12(2).jpeg"
+                    alt=""
+                  />
+                </figure>
+                <div class="content">
+                  <!-- <div class="membertitle">
+                    <h3>Darlene Keys</h3>
+                    <div class="designation">Board Member</div>
+                  </div> -->
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="teammember">
+            <div class="innerbox">
+              <div class="imagebox">
+                <figure class="img">
+                  <img
+                    src="@/assets/images/Events/PastEventGallery/2023-03.jpeg"
+                    alt=""
+                  />
+                </figure>
+                <div class="content">
+                  <div class="membertitle">
+                    <br />
+                    <div class="designation">Game Night Fundraiser</div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="teammember">
+            <div class="innerbox">
+              <div class="imagebox">
+                <figure class="img">
+                  <img
+                    src="@/assets/images/Events/PastEventGallery/202302.jpeg"
+                    alt=""
+                  />
+                </figure>
+                <div class="content">
+                  <div class="membertitle">
+                    <br />
+                    <div class="designation">Valentines Volunteer Event</div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="teammember">
+            <div class="innerbox">
+              <div class="imagebox">
+                <figure class="img">
+                  <img
+                    src="@/assets/images/Events/PastEventGallery/202206(1).jpeg"
+                    alt=""
+                  />
+                </figure>
+                <div class="content">
+                  <div class="membertitle">
+                    <br />
+                    <div class="designation">
+                      Paint and Sip Fundraiser and Member Award Ceremony
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
   <section class="recent-causes-section dark-layout">
     <div class="outer-container">
-      <div class="lined-title"><h2>Past events</h2></div>
+      <div class="lined-title"><h2>Educational Workshops</h2></div>
 
       <div class="row clearfix carosel">
         <!--Default Cause Column-->
@@ -302,11 +520,12 @@
           data-wow-duration="1500ms"
         >
           <div class="inner-box hvr-float">
-            <figure class="image-box">
+            <figure class="image-box past-event-image">
               <img
-                src="@/assets/images/8DBDAB68-DE19-4762-870A-56F7A1E099C9.jpeg"
+                src="@/assets/images/Events/EducationalWorkshops/2020-08.jpeg"
                 alt=""
-              /><a href="#" class="overlay"></a>
+              />
+              <!-- <a href="#" class="overlay"></a> -->
               <h3></h3>
             </figure>
           </div>
@@ -320,11 +539,12 @@
         >
           <div class="inner-box hvr-float">
             <!--Image Box-->
-            <figure class="image-box">
+            <figure class="image-box past-event-image">
               <img
-                src="@/assets/images/Events/PastEventGallery/2021-12.jpeg"
+                src="@/assets/images/Events/EducationalWorkshops/2020-11.jpeg"
                 alt=""
-              /><a href="#" class="overlay"></a>
+              />
+              <!-- <a href="#" class="overlay"></a> -->
               <h3></h3>
             </figure>
           </div>
@@ -338,11 +558,12 @@
         >
           <div class="inner-box hvr-float">
             <!--Image Box-->
-            <figure class="image-box">
+            <figure class="image-box past-event-image">
               <img
-                src="@/assets/images/Events/PastEventGallery/2022-0jpeg.png"
+                src="@/assets/images/Events/EducationalWorkshops/2021-04.jpeg"
                 alt=""
-              /><a href="#" class="overlay"></a>
+              />
+              <!-- <a href="#" class="overlay"></a> -->
               <h3></h3>
             </figure>
             <!--Lower Content-->
@@ -355,11 +576,12 @@
         >
           <div class="inner-box hvr-float">
             <!--Image Box-->
-            <figure class="image-box">
+            <figure class="image-box past-event-image">
               <img
-                src="@/assets/images/Events/PastEventGallery/2022-07.jpeg"
+                src="@/assets/images/Events/EducationalWorkshops/2022-07.jpeg"
                 alt=""
-              /><a href="#" class="overlay"></a>
+              />
+              <!-- <a href="#" class="overlay"></a> -->
               <h3></h3>
             </figure>
             <!--Lower Content-->
@@ -372,11 +594,12 @@
         >
           <div class="inner-box hvr-float">
             <!--Image Box-->
-            <figure class="image-box">
+            <figure class="image-box past-event-image">
               <img
-                src="@/assets/images/Events/PastEventGallery/2022-12.jpeg"
+                src="@/assets/images/Events/EducationalWorkshops/2022-09.jpeg"
                 alt=""
-              /><a href="#" class="overlay"></a>
+              />
+              <!-- <a href="#" class="overlay"></a> -->
               <h3></h3>
             </figure>
             <!--Lower Content-->
@@ -389,11 +612,12 @@
         >
           <div class="inner-box hvr-float">
             <!--Image Box-->
-            <figure class="image-box">
+            <figure class="image-box past-event-image">
               <img
-                src="@/assets/images/Events/PastEventGallery/2022-12(1).jpeg"
+                src="@/assets/images/Events/EducationalWorkshops/2022-12.jpeg"
                 alt=""
-              /><a href="#" class="overlay"></a>
+              />
+              <!-- <a href="#" class="overlay"></a> -->
               <h3></h3>
             </figure>
             <!--Lower Content-->
@@ -406,11 +630,30 @@
         >
           <div class="inner-box hvr-float">
             <!--Image Box-->
-            <figure class="image-box">
+            <figure class="image-box past-event-image">
               <img
-                src="@/assets/images/Events/PastEventGallery/2022-12(2).jpeg"
+                src="@/assets/images/Events/EducationalWorkshops/2023-02.jpeg"
                 alt=""
-              /><a href="#" class="overlay"></a>
+              />
+              <!-- <a href="#" class="overlay"></a> -->
+              <h3></h3>
+            </figure>
+            <!--Lower Content-->
+          </div>
+        </div>
+        <div
+          class="default-cause-column col-md-4 col-sm-6 col-xs-12 wow fadeInLeft"
+          data-wow-delay="600ms"
+          data-wow-duration="1500ms"
+        >
+          <div class="inner-box hvr-float">
+            <!--Image Box-->
+            <figure class="image-box past-event-image">
+              <img
+                src="@/assets/images/Events/EducationalWorkshops/2023-05.jpeg"
+                alt=""
+              />
+              <!-- <a href="#" class="overlay"></a> -->
               <h3></h3>
             </figure>
             <!--Lower Content-->
@@ -424,11 +667,12 @@
         >
           <div class="inner-box hvr-float">
             <!--Image Box-->
-            <figure class="image-box">
+            <figure class="image-box past-event-image">
               <img
-                src="@/assets/images/Events/PastEventGallery/202206.jpeg"
+                src="@/assets/images/Events/EducationalWorkshops/202007.jpeg "
                 alt=""
-              /><a href="#" class="overlay"></a>
+              />
+              <!-- <a href="#" class="overlay"></a> -->
               <h3></h3>
             </figure>
             <!--Lower Content-->
